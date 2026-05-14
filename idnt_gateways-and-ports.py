@@ -1,37 +1,40 @@
-import socket 
-import pywifi
+eleccion = str (input("Elige una puerta: "))
 
-def scan_wifi():
-    str (input("Introduce una wifi valida: " ))
-    for i in range(1, 30):
-        wifi = pywifi.Pywifi
-        socket.socket(i, wifi)
+Acceso_Negativo = "No puedes acceder"
+
+Acceso_Positivo = "puedes acceder"
 
 
-    wifi()
+def puerta1  (): 
+    puerta01 = 10
+    if eleccion > 10: 
+        print(Acceso_Positivo)
+    else: 
+        print(Acceso_Negativo)
 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    
+    
+def puerta2():    
+    puerta02 = 20
+    if eleccion > 20:
+        print(Acceso_Positivo)
+    else: 
+        print(Acceso_Negativo)
 
 
-
-
-#def idnt_wifi():
-    #w = socket.socket()
-    #s.settimeout(0.1)
+def puerta3():
+    puerta03 = 15
+    if eleccion > 15: 
+        print(Acceso_Positivo)
+    else: 
+        print(Acceso_Negativo)
 
 
 
+            
+
+
+
+
+
+    
