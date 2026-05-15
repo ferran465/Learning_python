@@ -11,10 +11,10 @@ Acceso_Positivo = "puedes acceder"
 def puerta1(): 
       
     if eleccion == 1: 
-        if valor <= 10:
+        if valor <= 10:     # El valor puede ser igual o menor
             print(Acceso_Positivo)
         else: 
-            if valor <10:
+            if valor >10:
                 print(Acceso_Negativo)
 
 puerta1()
@@ -22,11 +22,11 @@ puerta1()
     
     
 def puerta2():    
-    if eleccion == 2:
-        if valor <= 20:
+    if eleccion == 2:                   
+        if valor <= 20:      # El valor puede ser igual o menor 
             print(Acceso_Positivo)
         else: 
-            if valor <20:
+            if valor >20:
                 print(Acceso_Negativo)
 
 puerta2()
@@ -34,10 +34,10 @@ puerta2()
 
 def puerta3():
     if eleccion == 3: 
-        if valor <= 30:
+        if valor <= 30:      # El valor puede ser igual o menor
             print(Acceso_Positivo)
         else: 
-            if valor <30:
+            if valor >30:
                 print(Acceso_Negativo)
 
 
