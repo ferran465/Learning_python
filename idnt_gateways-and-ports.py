@@ -1,34 +1,47 @@
-eleccion = str (input("Elige una puerta: "))
+eleccion = int(input("Elige una puerta: " ))
+
+valor = float(input("Elige un valor: "))
 
 Acceso_Negativo = "No puedes acceder"
 
 Acceso_Positivo = "puedes acceder"
 
 
-def puerta1  (): 
-    puerta01 = 10
-    if eleccion > 10: 
-        print(Acceso_Positivo)
-    else: 
-        print(Acceso_Negativo)
+
+def puerta1(): 
+      
+    if eleccion == 1: 
+        if valor <= 10:
+            print(Acceso_Positivo)
+        else: 
+            if valor <10:
+                print(Acceso_Negativo)
+
+puerta1()
 
     
     
 def puerta2():    
-    puerta02 = 20
-    if eleccion > 20:
-        print(Acceso_Positivo)
-    else: 
-        print(Acceso_Negativo)
+    if eleccion == 2:
+        if valor <= 20:
+            print(Acceso_Positivo)
+        else: 
+            if valor <20:
+                print(Acceso_Negativo)
+
+puerta2()
 
 
 def puerta3():
-    puerta03 = 15
-    if eleccion > 15: 
-        print(Acceso_Positivo)
-    else: 
-        print(Acceso_Negativo)
+    if eleccion == 3: 
+        if valor <= 30:
+            print(Acceso_Positivo)
+        else: 
+            if valor <30:
+                print(Acceso_Negativo)
 
+
+puerta3()
 
 
             
