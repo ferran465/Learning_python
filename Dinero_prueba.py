@@ -1,13 +1,20 @@
 
 numero = float(input("Introduce un numero: "))
 
-def multiplo(multiplo, numero):
-    if multiplo % numero == 0: 
+def es_multiplo(multiplo, numero):
+    if multiplo % numero == 0:
         return True
-    else: 
+        
+    else:
         return False
+       
+        
+print(es_multiplo(1, numero))
+print(es_multiplo(0, numero))
 
-    multiplo()
-    print(multiplo(10))
-    print(multiplo(10))
-     
+
+
+
+
+   
+        
