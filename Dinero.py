@@ -1,6 +1,6 @@
 dinero1 = float (input("Introduce una cifra de dinero: "))
 
-mayor_cantidad = "Solo puede introducir 5 o igual"
+mayor_cantidad = "Solo puede introducir 5 o más"
 
 cantidad_normal = "su cantidad és exacta"
 
