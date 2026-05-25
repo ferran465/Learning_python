@@ -1,4 +1,3 @@
-
 numero = float(input("Introduce un numero: "))
 
 def es_multiplo(multiplo, numero):
