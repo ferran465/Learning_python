@@ -24,6 +24,8 @@ def dinero():
                 if dinero1 == i:
                     print(mayor_cantidad)
 
+        # el & hace intersección de conjuntos por ejemplo: si dinero1 tiene algún valor exacto a = (5 == 0) devuelve (si_multiplo) pero si no, si no tiene ningúno no hace ningúna inserción.
+
         if dinero1 & 5 == 0: 
             print(si_multiplo)
         else: 
