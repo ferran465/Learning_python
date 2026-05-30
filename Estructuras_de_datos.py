@@ -1,16 +1,20 @@
 import sys
 
-numeros = str(input("Introduce una letra: "))
+
+num1 = int(input("Introduce num1: "))
+num2 = int(input("Introduce num2: "))
+
+size1 = sys.getsizeof(num1)
+size2 = sys.getsizeof(num2)
 
 
-x = 1000000000 * 1000000000 * 1000000000
 
-y = 2000000000 * 2000000000 * 2000000000
-
-def numeros(): 
-    if x < y: 
-        print(sys.getsizeof(x))
+def numeros():
+    if size1 >= size2:
+        print(size1)
     else:
-        print(sys.getsizeof(y))
+        print(size2)
 
 numeros()
+
+
