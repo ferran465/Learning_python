@@ -1,4 +1,4 @@
-dinero1 = float(input("Introduce una cifra de dinero: "))
+dinero1 = int(input("Introduce una cifra de dinero: "))
 
 mayor_cantidad = "Solo puede introducir 5 o más"
 
@@ -12,27 +12,23 @@ no_multiplo = "Su numero no és multiplo"
 
 def dinero():
         if dinero1 >10000:
-            print(float(dinero1), cantidad_excesiva)
+            print(cantidad_excesiva)
 
         elif dinero1 >=5:
             for m in range(5, 10001):
                 if dinero1 == m:
-                    print(float(dinero1), cantidad_normal)
+                    print(cantidad_normal)
 
         elif dinero1 <5:
             for i in range(0, 4):
                 if dinero1 == i:
-                    print(float(dinero1), mayor_cantidad)
+                    print(mayor_cantidad)
 
-        # el & hace intersección de conjuntos por ejemplo: si dinero1 tiene algún valor exacto a = (5 == 0) devuelve (si_multiplo) pero si no, si no tiene ningúno no hace ningúna intersección.
+        # el & hace intersección de conjuntos por ejemplo: si dinero1 tiene algún valor exacto a nivel de bits = (5 == 0) devuelve (si_multiplo) pero si no, si no tiene ningúno no hace ningúna intersección.
 
-        if dinero1 % 5 == 0: 
-            print(float(dinero1), si_multiplo)
+        if dinero1 & 5 == 0: 
+            print(si_multiplo)
         else: 
-            print(float(dinero1), no_multiplo)
+            print(no_multiplo)
 dinero()
                  
-
-            
-        
-    
