@@ -24,8 +24,8 @@ def dinero():
                 if dinero1 == i:
                     print(mayor_cantidad)
 
-        # el & hace intersección de conjuntos por ejemplo: si dinero1 tiene algún valor exacto a nivel de bits = (5 == 0) devuelve (si_multiplo) pero si no, si no tiene ningúno no hace ningúna intersección.
-
+        # & opera a nivel de bits, compara bit a bit los dos números en binario, solo devuelve 1 donde ambos bits son 1
+        
         if dinero1 & 5 == 0: 
             print(si_multiplo)
         else: 
