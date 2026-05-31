@@ -3,7 +3,7 @@ import logging
 
 
 
-logging.basicConfig(filename = "log.txt", level = logging.DEBUG, format = "%(asctime)s - %(message)s")
+logging.basicConfig(filename="log.txt", level=logging.DEBUG, format="%(message)s")
 
 def presionar(key):
     logging.info(str(key))

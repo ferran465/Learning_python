@@ -1,765 +1,4653 @@
-2026-05-31 03:57:19,693 - 'j'
-2026-05-31 03:57:19,745 - 'b'
-2026-05-31 03:57:19,805 - 'f'
-2026-05-31 03:57:19,839 - 'e'
-2026-05-31 03:57:19,916 - 'j'
-2026-05-31 03:57:19,995 - 'e'
-2026-05-31 03:57:20,048 - 'b'
-2026-05-31 03:57:20,067 - 'f'
-2026-05-31 03:57:20,164 - 'j'
-2026-05-31 03:57:20,259 - 'b'
-2026-05-31 03:57:20,314 - 'f'
-2026-05-31 03:57:21,200 - Key.ctrl_l
-2026-05-31 03:57:21,717 - Key.ctrl_l
-2026-05-31 03:57:21,748 - Key.ctrl_l
-2026-05-31 03:57:21,781 - Key.ctrl_l
-2026-05-31 03:57:21,812 - Key.ctrl_l
-2026-05-31 03:57:21,844 - Key.ctrl_l
-2026-05-31 03:57:21,873 - Key.ctrl_l
-2026-05-31 03:57:21,905 - Key.ctrl_l
-2026-05-31 03:57:21,937 - Key.ctrl_l
-2026-05-31 03:57:21,968 - Key.ctrl_l
-2026-05-31 03:57:22,015 - Key.ctrl_l
-2026-05-31 03:57:22,044 - Key.ctrl_l
-2026-05-31 03:57:22,076 - Key.ctrl_l
-2026-05-31 03:57:22,109 - Key.ctrl_l
-2026-05-31 03:57:22,136 - Key.ctrl_l
-2026-05-31 03:57:22,169 - Key.ctrl_l
-2026-05-31 03:57:22,200 - Key.ctrl_l
-2026-05-31 03:57:22,231 - Key.ctrl_l
-2026-05-31 03:57:22,263 - Key.ctrl_l
-2026-05-31 03:57:22,309 - Key.ctrl_l
-2026-05-31 03:57:22,340 - Key.ctrl_l
-2026-05-31 03:57:22,375 - Key.ctrl_l
-2026-05-31 03:57:22,401 - Key.ctrl_l
-2026-05-31 03:57:22,434 - Key.ctrl_l
-2026-05-31 03:57:22,464 - Key.ctrl_l
-2026-05-31 03:57:22,494 - Key.ctrl_l
-2026-05-31 03:57:22,528 - Key.ctrl_l
-2026-05-31 03:57:22,574 - Key.ctrl_l
-2026-05-31 03:57:22,607 - Key.ctrl_l
-2026-05-31 03:57:22,959 - Key.ctrl_l
-2026-05-31 03:57:23,459 - Key.backspace
-2026-05-31 03:57:23,818 - Key.backspace
-2026-05-31 03:57:24,045 - Key.backspace
-2026-05-31 03:57:28,843 - 'a'
-2026-05-31 03:57:28,876 - 'k'
-2026-05-31 03:57:28,892 - 'j'
-2026-05-31 03:57:28,906 - 'e'
-2026-05-31 03:57:28,909 - 'n'
-2026-05-31 03:57:28,939 - 'f'
-2026-05-31 03:57:29,089 - 'o'
-2026-05-31 03:57:29,093 - 'j'
-2026-05-31 03:57:29,103 - 'a'
-2026-05-31 03:57:29,211 - 'f'
-2026-05-31 03:57:29,219 - 'h'
-2026-05-31 03:57:29,223 - 'b'
-2026-05-31 03:57:29,290 - 'o'
-2026-05-31 03:57:29,306 - 'i'
-2026-05-31 03:57:29,322 - 'u'
-2026-05-31 03:57:29,340 - 'e'
-2026-05-31 03:57:29,405 - 'a'
-2026-05-31 03:57:29,430 - 'b'
-2026-05-31 03:57:29,484 - 'f'
-2026-05-31 03:57:29,539 - 'u'
-2026-05-31 03:57:29,542 - 'j'
-2026-05-31 03:57:29,551 - 'o'
-2026-05-31 03:57:29,634 - 'b'
-2026-05-31 03:57:29,701 - 'a'
-2026-05-31 03:57:29,741 - 'u'
-2026-05-31 03:57:29,742 - Key.caps_lock
-2026-05-31 03:57:29,772 - 'h'
-2026-05-31 03:57:29,845 - 'g'
-2026-05-31 03:57:29,878 - 'w'
-2026-05-31 03:57:29,978 - 'u'
-2026-05-31 03:57:29,994 - 'i'
-2026-05-31 03:57:30,136 - 'g'
-2026-05-31 03:57:30,144 - 'b'
-2026-05-31 03:57:30,184 - 'f'
-2026-05-31 03:57:30,300 - 'u'
-2026-05-31 03:57:30,354 - 'h'
-2026-05-31 03:57:30,360 - 'e'
-2026-05-31 03:57:30,381 - 'a'
-2026-05-31 03:57:30,460 - 'g'
-2026-05-31 03:57:30,600 - 'i'
-2026-05-31 03:57:30,620 - 'a'
-2026-05-31 03:57:30,741 - 'h'
-2026-05-31 03:57:30,866 - 'u'
-2026-05-31 03:57:30,922 - 'f'
-2026-05-31 03:57:30,932 - 'b'
-2026-05-31 03:57:30,990 - 'v'
-2026-05-31 03:57:31,115 - 'u'
-2026-05-31 03:57:31,117 - 'a'
-2026-05-31 03:57:31,121 - 's'
-2026-05-31 03:57:31,123 - 'h'
-2026-05-31 03:57:31,124 - 'j'
-2026-05-31 03:57:31,157 - 'i'
-2026-05-31 03:57:31,239 - 'f'
-2026-05-31 03:57:31,274 - 'e'
-2026-05-31 03:57:31,367 - 's'
-2026-05-31 03:57:31,818 - Key.enter
-2026-05-31 03:57:39,357 - 'e'
-2026-05-31 03:57:40,735 - 'e'
-2026-05-31 03:57:40,819 - 'f'
-2026-05-31 03:57:41,138 - 'e'
-2026-05-31 03:57:41,253 - 's'
-2026-05-31 03:57:41,424 - 'f'
-2026-05-31 03:57:41,724 - 'd'
-2026-05-31 03:57:41,751 - 's'
-2026-05-31 03:57:42,046 - 'f'
-2026-05-31 03:57:42,251 - 'e'
-2026-05-31 03:57:42,337 - 's'
-2026-05-31 03:57:43,084 - 'j'
-2026-05-31 03:57:43,089 - 'k'
-2026-05-31 03:57:43,112 - 'k'
-2026-05-31 03:57:43,127 - 'a'
-2026-05-31 03:57:43,143 - 'k'
-2026-05-31 03:57:43,177 - 'e'
-2026-05-31 03:57:43,200 - 'b'
-2026-05-31 03:57:43,296 - 'f'
-2026-05-31 03:57:43,427 - 'j'
-2026-05-31 03:57:43,449 - 'a'
-2026-05-31 03:57:43,583 - 'b'
-2026-05-31 03:57:43,669 - 'f'
-2026-05-31 03:57:43,728 - 'e'
-2026-05-31 03:57:43,848 - 'k'
-2026-05-31 03:57:43,882 - 'a'
-2026-05-31 03:57:44,121 - 'b'
-2026-05-31 03:57:44,402 - 'w'
-2026-05-31 03:57:44,444 - 'h'
-2026-05-31 03:57:44,445 - 'j'
-2026-05-31 03:57:44,496 - 'k'
-2026-05-31 03:57:44,574 - 'd'
-2026-05-31 03:57:44,837 - 'a'
-2026-05-31 03:57:44,884 - 'w'
-2026-05-31 03:57:48,181 - 'w'
-2026-05-31 03:57:48,257 - 'a'
-2026-05-31 03:57:48,336 - 'j'
-2026-05-31 03:57:48,399 - 'b'
-2026-05-31 03:57:48,422 - 'd'
-2026-05-31 03:57:48,597 - 'k'
-2026-05-31 03:57:49,086 - Key.backspace
-2026-05-31 03:57:49,511 - Key.enter
-2026-05-31 03:57:52,028 - 'a'
-2026-05-31 03:57:52,079 - 'w'
-2026-05-31 03:57:52,094 - 'n'
-2026-05-31 03:57:52,174 - 'd'
-2026-05-31 03:57:52,358 - 'l'
-2026-05-31 03:57:52,381 - 'a'
-2026-05-31 03:57:52,394 - 'w'
-2026-05-31 03:57:52,491 - 'k'
-2026-05-31 03:57:52,643 - 'd'
-2026-05-31 03:57:52,712 - 'n'
-2026-05-31 03:57:53,019 - Key.enter
-2026-05-31 03:57:56,650 - 'h'
-2026-05-31 03:57:56,767 - 'g'
-2026-05-31 03:57:56,804 - 'd'
-2026-05-31 03:57:56,826 - 'b'
-2026-05-31 03:57:56,836 - 'v'
-2026-05-31 03:57:56,921 - 'h'
-2026-05-31 03:57:57,066 - 'w'
-2026-05-31 03:57:57,076 - 'g'
-2026-05-31 03:57:57,089 - 'a'
-2026-05-31 03:57:57,111 - 'v'
-2026-05-31 03:57:57,111 - 'b'
-2026-05-31 03:57:57,201 - 'h'
-2026-05-31 03:57:57,212 - 'd'
-2026-05-31 03:57:57,329 - 'g'
-2026-05-31 03:57:57,365 - 'v'
-2026-05-31 03:57:57,368 - 'b'
-2026-05-31 03:57:57,398 - 'a'
-2026-05-31 03:57:57,470 - 'h'
-2026-05-31 03:57:57,478 - 'f'
-2026-05-31 03:57:57,500 - 'k'
-2026-05-31 03:57:57,611 - 'g'
-2026-05-31 03:57:57,665 - 'v'
-2026-05-31 03:57:57,667 - 'b'
-2026-05-31 03:57:57,703 - 'f'
-2026-05-31 03:57:57,724 - 'h'
-2026-05-31 03:57:57,741 - 'k'
-2026-05-31 03:57:57,815 - 'a'
-2026-05-31 03:57:58,420 - Key.enter
-2026-05-31 03:58:20,827 - 'j'
-2026-05-31 03:58:21,013 - 'j'
-2026-05-31 03:58:21,178 - 'j'
-2026-05-31 03:58:21,330 - 'j'
-2026-05-31 03:58:21,485 - 'j'
-2026-05-31 03:58:21,615 - 'j'
-2026-05-31 03:58:22,468 - Key.caps_lock
-2026-05-31 03:58:23,529 - Key.shift
-2026-05-31 03:58:23,674 - 'J'
-2026-05-31 03:58:23,804 - 'J'
-2026-05-31 03:58:23,935 - 'J'
-2026-05-31 03:58:24,301 - Key.enter
-2026-05-31 03:58:24,650 - Key.enter
-2026-05-31 03:58:33,887 - Key.shift
-2026-05-31 03:58:34,088 - 'H'
-2026-05-31 03:58:34,631 - 'o'
-2026-05-31 03:58:34,807 - 'l'
-2026-05-31 03:58:35,008 - 'a'
-2026-05-31 03:58:35,102 - Key.space
-2026-05-31 03:58:36,077 - 't'
-2026-05-31 03:58:36,249 - 'i'
-2026-05-31 03:58:36,393 - 'o'
-2026-05-31 03:58:36,592 - Key.space
-2026-05-31 03:58:57,754 - Key.ctrl_l
-2026-05-31 03:58:58,257 - Key.ctrl_l
-2026-05-31 03:58:58,302 - Key.ctrl_l
-2026-05-31 03:58:58,334 - Key.ctrl_l
-2026-05-31 03:58:58,365 - Key.ctrl_l
-2026-05-31 03:58:58,396 - Key.ctrl_l
-2026-05-31 03:58:58,425 - Key.ctrl_l
-2026-05-31 03:58:58,458 - Key.ctrl_l
-2026-05-31 03:58:58,489 - Key.ctrl_l
-2026-05-31 03:58:58,522 - Key.ctrl_l
-2026-05-31 03:58:58,552 - Key.ctrl_l
-2026-05-31 03:58:58,600 - Key.ctrl_l
-2026-05-31 03:58:58,631 - Key.ctrl_l
-2026-05-31 03:58:58,661 - Key.ctrl_l
-2026-05-31 03:59:19,048 - Key.shift
-2026-05-31 03:59:19,555 - Key.shift
-2026-05-31 03:59:19,587 - Key.shift
-2026-05-31 03:59:19,616 - Key.shift
-2026-05-31 03:59:19,648 - Key.shift
-2026-05-31 03:59:19,696 - Key.shift
-2026-05-31 03:59:19,725 - Key.shift
-2026-05-31 03:59:19,756 - Key.shift
-2026-05-31 03:59:19,785 - Key.shift
-2026-05-31 03:59:19,815 - Key.shift
-2026-05-31 03:59:19,846 - Key.shift
-2026-05-31 03:59:21,826 - Key.ctrl_l
-2026-05-31 03:59:22,084 - '\x01'
-2026-05-31 03:59:22,894 - '\x03'
-2026-05-31 03:59:23,104 - '\x03'
-2026-05-31 03:59:23,317 - '\x03'
-2026-05-31 03:59:28,204 - Key.ctrl_l
-2026-05-31 03:59:28,550 - '\x16'
-2026-05-31 03:59:28,824 - Key.shift
-2026-05-31 03:59:29,288 - Key.enter
-2026-05-31 03:59:29,429 - Key.enter
-2026-05-31 03:59:30,284 - 'S'
-2026-05-31 03:59:30,435 - 'i'
-2026-05-31 03:59:30,628 - 'e'
-2026-05-31 03:59:30,850 - 'n'
-2026-05-31 03:59:30,989 - 't'
-2026-05-31 03:59:31,089 - 'o'
-2026-05-31 03:59:31,276 - Key.space
-2026-05-31 03:59:31,396 - 'q'
-2026-05-31 03:59:31,540 - 'u'
-2026-05-31 03:59:31,619 - 'e'
-2026-05-31 03:59:31,714 - Key.space
-2026-05-31 03:59:31,974 - 'l'
-2026-05-31 03:59:32,200 - 'o'
-2026-05-31 03:59:32,428 - Key.space
-2026-05-31 03:59:33,402 - ['´']
-2026-05-31 03:59:33,779 - 'u'
-2026-05-31 03:59:33,910 - 'n'
-2026-05-31 03:59:34,130 - 'i'
-2026-05-31 03:59:34,294 - 'c'
-2026-05-31 03:59:34,522 - 'o'
-2026-05-31 03:59:34,762 - Key.space
-2026-05-31 03:59:34,855 - 'q'
-2026-05-31 03:59:35,039 - 'u'
-2026-05-31 03:59:35,095 - 'e'
-2026-05-31 03:59:35,217 - Key.space
-2026-05-31 03:59:35,857 - 'h'
-2026-05-31 03:59:35,980 - 'e'
-2026-05-31 03:59:36,044 - Key.space
-2026-05-31 03:59:36,353 - 'c'
-2026-05-31 03:59:36,487 - 'a'
-2026-05-31 03:59:36,657 - 'm'
-2026-05-31 03:59:36,925 - 'b'
-2026-05-31 03:59:37,075 - 'i'
-2026-05-31 03:59:37,204 - 'a'
-2026-05-31 03:59:37,435 - 'd'
-2026-05-31 03:59:37,463 - 'o'
-2026-05-31 03:59:38,927 - Key.space
-2026-05-31 03:59:39,352 - 'e'
-2026-05-31 03:59:39,542 - 's'
-2026-05-31 03:59:39,635 - Key.space
-2026-05-31 03:59:39,991 - 'l'
-2026-05-31 03:59:40,115 - 'a'
-2026-05-31 03:59:40,917 - Key.backspace
-2026-05-31 03:59:41,201 - 'o'
-2026-05-31 03:59:41,361 - Key.space
-2026-05-31 03:59:41,485 - 'd'
-2026-05-31 03:59:41,657 - 'e'
-2026-05-31 03:59:41,726 - Key.space
-2026-05-31 03:59:41,927 - 'p'
-2026-05-31 03:59:42,042 - 'r'
-2026-05-31 03:59:42,242 - 'e'
-2026-05-31 03:59:42,459 - 's'
-2026-05-31 03:59:42,576 - 'i'
-2026-05-31 03:59:42,749 - 'o'
-2026-05-31 03:59:42,970 - 'n'
-2026-05-31 03:59:43,085 - 'a'
-2026-05-31 03:59:43,354 - 'r'
-2026-05-31 03:59:43,500 - Key.space
-2026-05-31 03:59:44,302 - 'n'
-2026-05-31 03:59:44,486 - 'o'
-2026-05-31 03:59:44,663 - Key.space
-2026-05-31 03:59:45,129 - ['´']
-2026-05-31 03:59:45,223 - 's'
-2026-05-31 03:59:45,933 - Key.backspace
-2026-05-31 03:59:46,060 - Key.backspace
-2026-05-31 03:59:46,190 - 's'
-2026-05-31 03:59:46,472 - ['´']
-2026-05-31 03:59:46,587 - 'e'
-2026-05-31 03:59:47,254 - Key.space
-2026-05-31 03:59:47,473 - 'p'
-2026-05-31 03:59:47,610 - 'e'
-2026-05-31 03:59:47,831 - 'n'
-2026-05-31 03:59:47,968 - 's'
-2026-05-31 03:59:48,157 - 'a'
-2026-05-31 03:59:48,298 - 'b'
-2026-05-31 03:59:48,452 - 'a'
-2026-05-31 03:59:48,465 - Key.space
-2026-05-31 03:59:49,461 - 'h'
-2026-05-31 03:59:49,594 - 'a'
-2026-05-31 03:59:49,674 - 'c'
-2026-05-31 03:59:49,866 - 'e'
-2026-05-31 03:59:50,013 - 'r'
-2026-05-31 03:59:50,259 - 'l'
-2026-05-31 03:59:50,405 - 'o'
-2026-05-31 03:59:50,617 - Key.space
-2026-05-31 03:59:51,514 - 'y'
-2026-05-31 03:59:51,596 - 'o'
-2026-05-31 03:59:51,807 - Key.space
-2026-05-31 03:59:52,374 - 'p'
-2026-05-31 03:59:52,487 - 'e'
-2026-05-31 03:59:52,718 - 'r'
-2026-05-31 03:59:52,756 - 'o'
-2026-05-31 03:59:53,512 - Key.space
-2026-05-31 03:59:54,915 - 'e'
-2026-05-31 03:59:55,081 - 's'
-2026-05-31 03:59:55,306 - 't'
-2026-05-31 03:59:55,626 - 'o'
-2026-05-31 03:59:55,865 - 'y'
-2026-05-31 03:59:56,122 - Key.space
-2026-05-31 03:59:56,280 - 'a'
-2026-05-31 03:59:56,438 - 'p'
-2026-05-31 03:59:56,659 - 'r'
-2026-05-31 03:59:56,873 - 'e'
-2026-05-31 03:59:57,083 - 'n'
-2026-05-31 03:59:57,239 - 'd'
-2026-05-31 03:59:57,480 - 'i'
-2026-05-31 03:59:57,491 - 'o'
-2026-05-31 03:59:57,584 - 'e'
-2026-05-31 03:59:57,781 - 'n'
-2026-05-31 03:59:57,811 - 'd'
-2026-05-31 03:59:58,417 - Key.backspace
-2026-05-31 03:59:58,605 - Key.backspace
-2026-05-31 03:59:58,779 - Key.backspace
-2026-05-31 03:59:58,925 - Key.backspace
-2026-05-31 03:59:59,250 - 'e'
-2026-05-31 03:59:59,486 - 'n'
-2026-05-31 03:59:59,634 - 'd'
-2026-05-31 03:59:59,766 - 'o'
-2026-05-31 03:59:59,971 - Key.space
-2026-05-31 04:00:01,106 - 'y'
-2026-05-31 04:00:01,316 - Key.space
-2026-05-31 04:00:01,641 - 'n'
-2026-05-31 04:00:02,186 - 'e'
-2026-05-31 04:00:02,350 - 'c'
-2026-05-31 04:00:02,433 - 'e'
-2026-05-31 04:00:02,635 - 's'
-2026-05-31 04:00:03,053 - 'i'
-2026-05-31 04:00:03,190 - 't'
-2026-05-31 04:00:03,395 - 'o'
-2026-05-31 04:00:03,597 - Key.space
-2026-05-31 04:00:03,763 - 's'
-2026-05-31 04:00:03,967 - 'e'
-2026-05-31 04:00:05,003 - 'n'
-2026-05-31 04:00:05,136 - 't'
-2026-05-31 04:00:05,518 - 'i'
-2026-05-31 04:00:06,103 - 'r'
-2026-05-31 04:00:06,279 - 'm'
-2026-05-31 04:00:06,376 - 'e'
-2026-05-31 04:00:06,513 - Key.space
-2026-05-31 04:00:07,071 - 'q'
-2026-05-31 04:00:07,219 - 'u'
-2026-05-31 04:00:07,368 - 'e'
-2026-05-31 04:00:07,500 - Key.space
-2026-05-31 04:00:09,076 - 'h'
-2026-05-31 04:00:09,195 - 'a'
-2026-05-31 04:00:09,323 - 'g'
-2026-05-31 04:00:09,587 - 'o'
-2026-05-31 04:00:09,778 - Key.space
-2026-05-31 04:00:10,031 - 'a'
-2026-05-31 04:00:10,310 - 'l'
-2026-05-31 04:00:10,452 - 'g'
-2026-05-31 04:00:10,605 - 'o'
-2026-05-31 04:00:10,768 - Key.space
-2026-05-31 04:00:11,423 - 'y'
-2026-05-31 04:00:11,531 - 'o'
-2026-05-31 04:00:11,732 - Key.space
-2026-05-31 04:00:11,857 - 's'
-2026-05-31 04:00:12,009 - 'o'
-2026-05-31 04:00:12,338 - 'o'
-2026-05-31 04:00:12,873 - Key.backspace
-2026-05-31 04:00:13,157 - 'l'
-2026-05-31 04:00:13,350 - 'o'
-2026-05-31 04:00:13,663 - Key.space
-2026-05-31 04:00:13,863 - 'd'
-2026-05-31 04:00:14,093 - 'e'
-2026-05-31 04:00:14,230 - Key.space
-2026-05-31 04:00:14,436 - 'e'
-2026-05-31 04:00:14,654 - 's'
-2026-05-31 04:00:14,801 - 't'
-2026-05-31 04:00:14,933 - 'e'
-2026-05-31 04:00:15,098 - Key.space
-2026-05-31 04:00:15,799 - 't'
-2026-05-31 04:00:15,964 - 'i'
-2026-05-31 04:00:16,211 - 'p'
-2026-05-31 04:00:16,418 - 'o'
-2026-05-31 04:00:16,716 - Key.enter
-2026-05-31 04:00:26,178 - Key.shift
-2026-05-31 04:00:26,685 - Key.shift
-2026-05-31 04:00:26,716 - Key.shift
-2026-05-31 04:00:26,749 - Key.shift
-2026-05-31 04:00:26,777 - Key.shift
-2026-05-31 04:00:26,809 - Key.shift
-2026-05-31 04:00:26,855 - 'F'
-2026-05-31 04:00:27,055 - 'u'
-2026-05-31 04:00:27,224 - 'n'
-2026-05-31 04:00:27,408 - 'c'
-2026-05-31 04:00:27,545 - 'i'
-2026-05-31 04:00:27,730 - 'o'
-2026-05-31 04:00:27,941 - 'n'
-2026-05-31 04:00:28,055 - 'a'
-2026-05-31 04:00:28,147 - Key.space
-2026-05-31 04:00:28,663 - 'p'
-2026-05-31 04:00:28,800 - 'e'
-2026-05-31 04:00:28,983 - 'r'
-2026-05-31 04:00:29,112 - 'o'
-2026-05-31 04:00:29,308 - Key.space
-2026-05-31 04:00:29,544 - 'n'
-2026-05-31 04:00:29,722 - 'o'
-2026-05-31 04:00:29,902 - Key.space
-2026-05-31 04:00:30,092 - 'm'
-2026-05-31 04:00:30,240 - 'e'
-2026-05-31 04:00:30,302 - Key.space
-2026-05-31 04:00:30,506 - 'a'
-2026-05-31 04:00:30,613 - 'l'
-2026-05-31 04:00:31,265 - 'e'
-2026-05-31 04:00:31,432 - 'g'
-2026-05-31 04:00:31,694 - 'r'
-2026-05-31 04:00:31,822 - 'a'
-2026-05-31 04:00:31,954 - Key.space
-2026-05-31 04:00:32,632 - 'q'
-2026-05-31 04:00:32,803 - 'u'
-2026-05-31 04:00:32,882 - 'e'
-2026-05-31 04:00:32,993 - Key.space
-2026-05-31 04:00:33,272 - 'f'
-2026-05-31 04:00:33,471 - 'u'
-2026-05-31 04:00:33,618 - 'n'
-2026-05-31 04:00:33,815 - 'c'
-2026-05-31 04:00:33,958 - 'i'
-2026-05-31 04:00:34,140 - 'o'
-2026-05-31 04:00:34,406 - 'n'
-2026-05-31 04:00:34,537 - 'e'
-2026-05-31 04:00:34,645 - Key.space
-2026-05-31 04:00:35,104 - 'm'
-2026-05-31 04:00:35,223 - 'e'
-2026-05-31 04:00:35,323 - Key.space
-2026-05-31 04:00:35,485 - 'a'
-2026-05-31 04:00:35,641 - 'l'
-2026-05-31 04:00:36,277 - 'e'
-2026-05-31 04:00:36,478 - 'g'
-2026-05-31 04:00:36,961 - 'r'
-2026-05-31 04:00:37,451 - 'a'
-2026-05-31 04:00:37,769 - 'r'
-2026-05-31 04:00:38,022 - 'i'
-2026-05-31 04:00:38,208 - 'i'
-2026-05-31 04:00:38,400 - 'a'
-2026-05-31 04:00:38,538 - Key.space
-2026-05-31 04:00:38,850 - Key.backspace
-2026-05-31 04:00:39,010 - Key.backspace
-2026-05-31 04:00:39,125 - Key.backspace
-2026-05-31 04:00:39,313 - 'a'
-2026-05-31 04:00:39,713 - Key.space
-2026-05-31 04:00:40,096 - 'h'
-2026-05-31 04:00:40,188 - 'a'
-2026-05-31 04:00:40,403 - 'b'
-2026-05-31 04:00:40,785 - 'e'
-2026-05-31 04:00:41,024 - 'r'
-2026-05-31 04:00:41,084 - 'l'
-2026-05-31 04:00:41,326 - 'o'
-2026-05-31 04:00:41,486 - Key.space
-2026-05-31 04:00:41,843 - 'e'
-2026-05-31 04:00:42,229 - 'c'
-2026-05-31 04:00:42,400 - 'h'
-2026-05-31 04:00:42,656 - 'o'
-2026-05-31 04:00:42,835 - Key.space
-2026-05-31 04:00:43,060 - 'y'
-2026-05-31 04:00:43,170 - 'o'
-2026-05-31 04:00:43,333 - Key.space
-2026-05-31 04:00:43,537 - 'c'
-2026-05-31 04:00:43,695 - 'o'
-2026-05-31 04:00:43,900 - 'n'
-2026-05-31 04:00:44,083 - Key.space
-2026-05-31 04:00:44,334 - 'm'
-2026-05-31 04:00:44,471 - 'i'
-2026-05-31 04:00:44,663 - 's'
-2026-05-31 04:00:44,737 - Key.space
-2026-05-31 04:00:45,224 - 'm'
-2026-05-31 04:00:45,360 - 'a'
-2026-05-31 04:00:45,535 - 'n'
-2026-05-31 04:00:45,721 - 'o'
-2026-05-31 04:00:45,823 - 's'
-2026-05-31 04:00:46,035 - Key.enter
-2026-05-31 04:01:03,790 - Key.shift
-2026-05-31 04:01:04,068 - 'P'
-2026-05-31 04:01:04,441 - 'e'
-2026-05-31 04:01:04,628 - 'r'
-2026-05-31 04:01:04,692 - 'o'
-2026-05-31 04:01:04,954 - Key.space
-2026-05-31 04:01:13,051 - Key.shift
-2026-05-31 04:01:13,553 - Key.shift
-2026-05-31 04:01:18,356 - Key.shift
-2026-05-31 04:01:18,358 - Key.cmd
-2026-05-31 04:01:18,806 - 'S'
-2026-05-31 04:01:21,862 - Key.esc
-2026-05-31 04:01:24,115 - Key.ctrl_l
-2026-05-31 04:01:24,627 - Key.ctrl_l
-2026-05-31 04:01:24,657 - Key.ctrl_l
-2026-05-31 04:01:24,690 - Key.ctrl_l
-2026-05-31 04:01:24,720 - Key.ctrl_l
-2026-05-31 04:01:24,750 - Key.ctrl_l
-2026-05-31 04:01:24,780 - Key.ctrl_l
-2026-05-31 04:01:24,827 - Key.ctrl_l
-2026-05-31 04:01:24,858 - Key.ctrl_l
-2026-05-31 04:01:24,881 - '\x03'
-2026-05-31 04:01:26,204 - Key.ctrl_l
-2026-05-31 04:01:26,394 - Key.backspace
-2026-05-31 04:01:26,555 - Key.backspace
-2026-05-31 04:01:26,820 - Key.shift
-2026-05-31 04:01:27,171 - 'E'
-2026-05-31 04:01:27,391 - 's'
-2026-05-31 04:01:27,503 - 't'
-2026-05-31 04:01:27,678 - 'a'
-2026-05-31 04:01:27,848 - 'v'
-2026-05-31 04:01:27,967 - 'a'
-2026-05-31 04:01:28,041 - Key.space
-2026-05-31 04:01:28,624 - 'g'
-2026-05-31 04:01:28,800 - 'u'
-2026-05-31 04:01:28,950 - 'i'
-2026-05-31 04:01:29,273 - 'a'
-2026-05-31 04:01:29,520 - 'n'
-2026-05-31 04:01:29,712 - 'd'
-2026-05-31 04:01:29,858 - 'o'
-2026-05-31 04:01:30,063 - 'm'
-2026-05-31 04:01:30,169 - 'e'
-2026-05-31 04:01:30,282 - Key.space
-2026-05-31 04:01:30,568 - 'd'
-2026-05-31 04:01:30,970 - 'e'
-2026-05-31 04:01:31,157 - Key.space
-2026-05-31 04:01:31,213 - 'e'
-2026-05-31 04:01:31,416 - 's'
-2026-05-31 04:01:31,545 - 't'
-2026-05-31 04:01:32,004 - ['´']
-2026-05-31 04:01:32,104 - 'a'
-2026-05-31 04:01:32,224 - Key.space
-2026-05-31 04:01:33,401 - 'd'
-2026-05-31 04:01:33,577 - 'o'
-2026-05-31 04:01:33,725 - 'c'
-2026-05-31 04:01:33,930 - 'u'
-2026-05-31 04:01:34,132 - 'm'
-2026-05-31 04:01:34,266 - 'e'
-2026-05-31 04:01:34,394 - 'n'
-2026-05-31 04:01:34,684 - 't'
-2026-05-31 04:01:34,775 - 'a'
-2026-05-31 04:01:35,043 - 'c'
-2026-05-31 04:01:35,230 - 'i'
-2026-05-31 04:01:35,673 - ['´']
-2026-05-31 04:01:36,011 - 'o'
-2026-05-31 04:01:36,213 - 'n'
-2026-05-31 04:01:36,526 - Key.enter
-2026-05-31 04:01:41,022 - Key.ctrl_l
-2026-05-31 04:01:41,150 - '\x16'
-2026-05-31 04:01:42,944 - Key.ctrl_l
-2026-05-31 04:01:43,433 - '\x03'
-2026-05-31 04:01:44,561 - Key.shift
-2026-05-31 04:01:44,735 - Key.enter
-2026-05-31 04:01:44,880 - Key.enter
-2026-05-31 04:01:45,092 - Key.ctrl_l
-2026-05-31 04:01:45,342 - '\x16'
-2026-05-31 04:01:45,808 - Key.enter
-2026-05-31 04:02:03,432 - Key.shift
-2026-05-31 04:02:03,882 - 'A'
-2026-05-31 04:02:04,042 - 'h'
-2026-05-31 04:02:04,230 - 'o'
-2026-05-31 04:02:04,536 - 'r'
-2026-05-31 04:02:04,657 - 'a'
-2026-05-31 04:02:04,791 - Key.space
-2026-05-31 04:02:04,943 - 'q'
-2026-05-31 04:02:05,072 - 'u'
-2026-05-31 04:02:05,298 - 'i'
-2026-05-31 04:02:05,492 - 'e'
-2026-05-31 04:02:05,676 - 'r'
-2026-05-31 04:02:05,789 - 'o'
-2026-05-31 04:02:05,990 - Key.space
-2026-05-31 04:02:06,300 - 'd'
-2026-05-31 04:02:06,494 - 'e'
-2026-05-31 04:02:06,691 - 's'
-2026-05-31 04:02:06,865 - 'c'
-2026-05-31 04:02:06,986 - 'a'
-2026-05-31 04:02:07,181 - 'n'
-2026-05-31 04:02:07,274 - 's'
-2026-05-31 04:02:07,462 - 'a'
-2026-05-31 04:02:07,574 - 'r'
-2026-05-31 04:02:07,765 - Key.space
-2026-05-31 04:02:40,620 - Key.ctrl_l
-2026-05-31 04:02:40,980 - '\x14'
-2026-05-31 04:02:41,343 - Key.shift
-2026-05-31 04:02:41,594 - 'N'
-2026-05-31 04:02:41,759 - 'o'
-2026-05-31 04:02:41,945 - Key.space
-2026-05-31 04:02:42,132 - 'm'
-2026-05-31 04:02:42,295 - 'e'
-2026-05-31 04:02:42,826 - Key.space
-2026-05-31 04:02:43,100 - 'j'
-2026-05-31 04:02:43,269 - 'o'
-2026-05-31 04:02:44,339 - 'd'
-2026-05-31 04:02:44,562 - 'a'
-2026-05-31 04:02:44,750 - 's'
-2026-05-31 04:02:44,870 - Key.space
-2026-05-31 04:02:45,056 - 'm'
-2026-05-31 04:02:45,227 - 'e'
-2026-05-31 04:02:45,584 - Key.space
-2026-05-31 04:02:45,771 - 'l'
-2026-05-31 04:02:45,949 - 'e'
-2026-05-31 04:02:46,122 - 'e'
-2026-05-31 04:02:46,443 - 's'
-2026-05-31 04:02:46,548 - Key.space
-2026-05-31 04:02:46,781 - Key.shift
-2026-05-31 04:02:47,244 - '?'
-2026-05-31 04:02:47,393 - '?'
-2026-05-31 04:03:02,934 - Key.backspace
-2026-05-31 04:03:09,954 - 'c'
-2026-05-31 04:03:10,152 - 'd'
-2026-05-31 04:03:10,439 - Key.space
-2026-05-31 04:03:10,846 - Key.shift
-2026-05-31 04:03:11,540 - Key.tab
-2026-05-31 04:03:12,342 - Key.tab
-2026-05-31 04:03:12,636 - Key.tab
-2026-05-31 04:03:16,155 - 'c'
-2026-05-31 04:03:16,330 - 'd'
-2026-05-31 04:03:16,573 - Key.space
-2026-05-31 04:03:16,807 - '.'
-2026-05-31 04:03:16,943 - '.'
-2026-05-31 04:03:17,101 - Key.enter
-2026-05-31 04:03:23,370 - 'c'
-2026-05-31 04:03:23,577 - 'd'
-2026-05-31 04:03:23,761 - Key.space
-2026-05-31 04:03:24,489 - Key.esc
-2026-05-31 04:03:25,422 - 'c'
-2026-05-31 04:03:25,636 - 'd'
-2026-05-31 04:03:25,890 - Key.space
-2026-05-31 04:03:26,260 - Key.tab
-2026-05-31 04:03:26,813 - Key.tab
-2026-05-31 04:03:27,142 - Key.tab
-2026-05-31 04:03:36,191 - 'c'
-2026-05-31 04:03:36,378 - 'd'
-2026-05-31 04:03:36,498 - Key.space
-2026-05-31 04:03:37,001 - Key.backspace
-2026-05-31 04:03:37,200 - Key.backspace
-2026-05-31 04:03:37,411 - Key.backspace
-2026-05-31 04:03:37,644 - 'l'
-2026-05-31 04:03:37,755 - 's'
-2026-05-31 04:03:37,985 - Key.enter
-2026-05-31 04:03:38,616 - 'c'
-2026-05-31 04:03:38,848 - 'd'
-2026-05-31 04:03:38,946 - Key.space
-2026-05-31 04:03:41,609 - Key.backspace
-2026-05-31 04:03:41,738 - Key.backspace
-2026-05-31 04:03:42,067 - Key.backspace
-2026-05-31 04:03:46,693 - 'l'
-2026-05-31 04:03:46,794 - 's'
-2026-05-31 04:03:46,896 - Key.enter
-2026-05-31 04:04:08,323 - 'd'
-2026-05-31 04:04:08,519 - 'e'
-2026-05-31 04:04:08,768 - 'a'
-2026-05-31 04:04:09,004 - 'c'
-2026-05-31 04:04:09,173 - 't'
-2026-05-31 04:04:09,573 - 'i'
-2026-05-31 04:04:09,793 - 'v'
-2026-05-31 04:04:09,929 - 'a'
-2026-05-31 04:04:10,096 - 't'
-2026-05-31 04:04:10,225 - 'e'
-2026-05-31 04:04:10,463 - Key.enter
-2026-05-31 04:04:12,636 - 'l'
-2026-05-31 04:04:12,685 - 's'
-2026-05-31 04:04:12,953 - Key.enter
-2026-05-31 04:04:13,791 - 'c'
-2026-05-31 04:04:13,985 - 'd'
-2026-05-31 04:04:14,157 - Key.space
-2026-05-31 04:04:14,905 - Key.tab
-2026-05-31 04:04:15,300 - Key.tab
-2026-05-31 04:04:15,632 - Key.tab
-2026-05-31 04:04:17,457 - Key.enter
-2026-05-31 04:04:18,730 - 'l'
-2026-05-31 04:04:18,804 - 's'
-2026-05-31 04:04:18,962 - Key.enter
-2026-05-31 04:04:21,572 - 'g'
-2026-05-31 04:04:21,705 - 'i'
-2026-05-31 04:04:21,851 - 't'
-2026-05-31 04:04:21,860 - 'r'
-2026-05-31 04:04:22,557 - Key.backspace
-2026-05-31 04:04:23,201 - Key.space
-2026-05-31 04:04:23,319 - 'a'
-2026-05-31 04:04:23,613 - 'd'
-2026-05-31 04:04:23,772 - 'd'
-2026-05-31 04:04:24,095 - Key.space
-2026-05-31 04:04:24,300 - Key.shift
-2026-05-31 04:04:24,535 - '*'
-2026-05-31 04:04:24,766 - Key.space
-2026-05-31 04:04:26,036 - Key.enter
-2026-05-31 04:04:32,911 - 'g'
-2026-05-31 04:04:33,079 - 'i'
-2026-05-31 04:04:33,163 - 't'
-2026-05-31 04:04:33,725 - Key.space
-2026-05-31 04:04:33,882 - 'a'
-2026-05-31 04:04:34,178 - 'd'
-2026-05-31 04:04:34,331 - 'd'
-2026-05-31 04:04:34,548 - Key.space
-2026-05-31 04:04:34,724 - Key.shift
-2026-05-31 04:04:35,235 - Key.shift
-2026-05-31 04:04:35,265 - Key.shift
-2026-05-31 04:04:35,297 - Key.shift
-2026-05-31 04:04:35,328 - Key.shift
-2026-05-31 04:04:35,359 - Key.shift
-2026-05-31 04:04:35,389 - Key.shift
-2026-05-31 04:04:35,436 - Key.shift
-2026-05-31 04:04:35,470 - Key.shift
-2026-05-31 04:04:35,500 - Key.shift
-2026-05-31 04:04:35,534 - Key.shift
-2026-05-31 04:04:35,569 - Key.shift
-2026-05-31 04:04:35,594 - Key.shift
-2026-05-31 04:04:35,626 - Key.shift
-2026-05-31 04:04:35,658 - Key.shift
-2026-05-31 04:04:35,687 - Key.shift
-2026-05-31 04:04:35,720 - Key.shift
-2026-05-31 04:04:35,766 - Key.shift
-2026-05-31 04:04:35,796 - Key.shift
-2026-05-31 04:04:35,828 - Key.shift
-2026-05-31 04:04:35,862 - Key.shift
-2026-05-31 04:04:35,889 - Key.shift
-2026-05-31 04:04:35,919 - Key.shift
-2026-05-31 04:04:35,952 - Key.shift
-2026-05-31 04:04:36,001 - Key.shift
-2026-05-31 04:04:36,028 - Key.shift
-2026-05-31 04:04:36,060 - Key.shift
-2026-05-31 04:04:36,090 - Key.shift
-2026-05-31 04:04:36,121 - Key.shift
-2026-05-31 04:04:36,152 - Key.shift
-2026-05-31 04:04:36,198 - Key.shift
-2026-05-31 04:04:36,228 - Key.shift
-2026-05-31 04:04:36,258 - Key.shift
-2026-05-31 04:04:36,290 - Key.shift
-2026-05-31 04:04:36,322 - Key.shift
-2026-05-31 04:04:36,352 - Key.shift
-2026-05-31 04:04:36,382 - Key.shift
-2026-05-31 04:04:36,413 - Key.shift
-2026-05-31 04:04:36,447 - '*'
-2026-05-31 04:04:37,281 - Key.enter
+INFO:root:Key.ctrl_l
+INFO:root:'\x03'
+INFO:root:'\x03'
+INFO:root:'\x03'
+INFO:root:'\x03'
+INFO:root:'\x03'
+INFO:root:'h'
+INFO:root:'j'
+INFO:root:'k'
+INFO:root:'e'
+INFO:root:'f'
+INFO:root:'v'
+INFO:root:'b'
+INFO:root:'h'
+INFO:root:'i'
+INFO:root:'f'
+INFO:root:'v'
+INFO:root:'b'
+INFO:root:'e'
+INFO:root:'i'
+INFO:root:'a'
+INFO:root:'j'
+INFO:root:'b'
+INFO:root:'f'
+INFO:root:'e'
+INFO:root:'i'
+INFO:root:'h'
+INFO:root:'j'
+INFO:root:'s'
+INFO:root:'b'
+INFO:root:'f'
+INFO:root:'u'
+INFO:root:'i'
+INFO:root:'j'
+INFO:root:'k'
+INFO:root:'e'
+INFO:root:'h'
+INFO:root:'r'
+INFO:root:'s'
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:'E'
+INFO:root:'l'
+INFO:root:Key.space
+INFO:root:'l'
+INFO:root:'o'
+INFO:root:'g'
+INFO:root:'g'
+INFO:root:'i'
+INFO:root:'n'
+INFO:root:'g'
+INFO:root:Key.space
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:'d'
+INFO:root:'e'
+INFO:root:'b'
+INFO:root:'u'
+INFO:root:'g'
+INFO:root:Key.space
+INFO:root:'q'
+INFO:root:'u'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'h'
+INFO:root:'a'
+INFO:root:'c'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'x'
+INFO:root:'a'
+INFO:root:'c'
+INFO:root:'t'
+INFO:root:'a'
+INFO:root:'m'
+INFO:root:'e'
+INFO:root:'n'
+INFO:root:'t'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:'q'
+INFO:root:'u'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'n'
+INFO:root:'o'
+INFO:root:'i'
+INFO:root:Key.space
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.space
+INFO:root:'l'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'a'
+INFO:root:'c'
+INFO:root:'a'
+INFO:root:'b'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'d'
+INFO:root:Key.backspace
+INFO:root:'d'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'n'
+INFO:root:'t'
+INFO:root:'e'
+INFO:root:'n'
+INFO:root:'d'
+INFO:root:'e'
+INFO:root:'r'
+INFO:root:Key.enter
+INFO:root:Key.shift
+INFO:root:'Y'
+INFO:root:Key.space
+INFO:root:'s'
+INFO:root:'i'
+INFO:root:Key.space
+INFO:root:'l'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'q'
+INFO:root:'u'
+INFO:root:'i'
+INFO:root:'t'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:Key.shift
+INFO:root:'?'
+INFO:root:'?'
+INFO:root:Key.enter
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:'O'
+INFO:root:'s'
+INFO:root:'e'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'l'
+INFO:root:Key.space
+INFO:root:'l'
+INFO:root:'o'
+INFO:root:'g'
+INFO:root:'g'
+INFO:root:'i'
+INFO:root:'n'
+INFO:root:'g'
+INFO:root:Key.space
+INFO:root:'d'
+INFO:root:'e'
+INFO:root:'b'
+INFO:root:'u'
+INFO:root:'g'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:'p'
+INFO:root:'a'
+INFO:root:'r'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'q'
+INFO:root:'u'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'p'
+INFO:root:'u'
+INFO:root:'e'
+INFO:root:'d'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'a'
+INFO:root:'c'
+INFO:root:'c'
+INFO:root:'e'
+INFO:root:'d'
+INFO:root:'e'
+INFO:root:'r'
+INFO:root:Key.space
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:'c'
+INFO:root:'r'
+INFO:root:'i'
+INFO:root:'b'
+INFO:root:'i'
+INFO:root:'t'
+INFO:root:Key.space
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:'r'
+INFO:root:'t'
+INFO:root:Key.space
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'n'
+INFO:root:Key.space
+INFO:root:'u'
+INFO:root:'n'
+INFO:root:Key.space
+INFO:root:'d'
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:'e'
+INFO:root:'l'
+INFO:root:Key.space
+INFO:root:'d'
+INFO:root:Key.backspace
+INFO:root:'f'
+INFO:root:'i'
+INFO:root:'c'
+INFO:root:'h'
+INFO:root:'e'
+INFO:root:'r'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'q'
+INFO:root:'u'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'h'
+INFO:root:'a'
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:'c'
+INFO:root:'r'
+INFO:root:'e'
+INFO:root:'a'
+INFO:root:'d'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'n'
+INFO:root:'o'
+INFO:root:Key.shift
+INFO:root:Key.space
+INFO:root:Key.shift
+INFO:root:'?'
+INFO:root:'='
+INFO:root:'?'
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.shift
+INFO:root:'?'
+INFO:root:Key.enter
+INFO:root:Key.shift
+INFO:root:'Q'
+INFO:root:'u'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:Key.shift
+INFO:root:'W'
+INFO:root:'a'
+INFO:root:'r'
+INFO:root:'n'
+INFO:root:'i'
+INFO:root:'n'
+INFO:root:'g'
+INFO:root:Key.space
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:'='
+INFO:root:'='
+INFO:root:Key.backspace
+INFO:root:Key.shift
+INFO:root:Key.backspace
+INFO:root:Key.shift
+INFO:root:'?'
+INFO:root:'?'
+INFO:root:Key.space
+INFO:root:Key.enter
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:'O'
+INFO:root:'s'
+INFO:root:'e'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:'p'
+INFO:root:'a'
+INFO:root:'r'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'l'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'s'
+INFO:root:'e'
+INFO:root:'g'
+INFO:root:'u'
+INFO:root:'r'
+INFO:root:'i'
+INFO:root:'d'
+INFO:root:'a'
+INFO:root:'d'
+INFO:root:Key.space
+INFO:root:Key.shift
+INFO:root:'?'
+INFO:root:'?'
+INFO:root:Key.enter
+INFO:root:Key.shift
+INFO:root:'A'
+INFO:root:'h'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:'t'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'s'
+INFO:root:['´']
+INFO:root:'o'
+INFO:root:'n'
+INFO:root:Key.space
+INFO:root:'n'
+INFO:root:'i'
+INFO:root:'o'
+INFO:root:Key.backspace
+INFO:root:'v'
+INFO:root:'e'
+INFO:root:'l'
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:'p'
+INFO:root:'a'
+INFO:root:'r'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'m'
+INFO:root:'o'
+INFO:root:'s'
+INFO:root:'t'
+INFO:root:'r'
+INFO:root:'a'
+INFO:root:'r'
+INFO:root:Key.space
+INFO:root:'q'
+INFO:root:Key.backspace
+INFO:root:'e'
+INFO:root:'l'
+INFO:root:Key.space
+INFO:root:'t'
+INFO:root:'i'
+INFO:root:'p'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'d'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'d'
+INFO:root:'e'
+INFO:root:'b'
+INFO:root:'u'
+INFO:root:Key.backspace
+INFO:root:'u'
+INFO:root:'g'
+INFO:root:Key.space
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:'\x16'
+INFO:root:'n'
+INFO:root:Key.backspace
+INFO:root:Key.space
+INFO:root:'n'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:Key.shift
+INFO:root:'?'
+INFO:root:'?'
+INFO:root:Key.enter
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:'E'
+INFO:root:'l'
+INFO:root:Key.space
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.shift
+INFO:root:'D'
+INFO:root:'e'
+INFO:root:'b'
+INFO:root:'u'
+INFO:root:'g'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:'p'
+INFO:root:'a'
+INFO:root:'r'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'n'
+INFO:root:'c'
+INFO:root:'o'
+INFO:root:'n'
+INFO:root:'t'
+INFO:root:'r'
+INFO:root:'a'
+INFO:root:'r'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'r'
+INFO:root:'r'
+INFO:root:'o'
+INFO:root:'r'
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'i'
+INFO:root:'n'
+INFO:root:'f'
+INFO:root:'o'
+INFO:root:'r'
+INFO:root:'m'
+INFO:root:'a'
+INFO:root:'c'
+INFO:root:'i'
+INFO:root:['´']
+INFO:root:'o'
+INFO:root:'n'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'n'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'l'
+INFO:root:Key.space
+INFO:root:'c'
+INFO:root:['´']
+INFO:root:'o'
+INFO:root:'d'
+INFO:root:'i'
+INFO:root:'g'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'n'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:Key.shift
+INFO:root:'?'
+INFO:root:'?'
+INFO:root:Key.enter
+INFO:root:Key.shift
+INFO:root:'Y'
+INFO:root:Key.space
+INFO:root:'d'
+INFO:root:'e'
+INFO:root:'b'
+INFO:root:'u'
+INFO:root:'g'
+INFO:root:'g'
+INFO:root:'e'
+INFO:root:'a'
+INFO:root:'r'
+INFO:root:Key.space
+INFO:root:Key.shift
+INFO:root:'?'
+INFO:root:'?'
+INFO:root:Key.enter
+INFO:root:Key.ctrl_l
+INFO:root:'\x13'
+INFO:root:'\x13'
+INFO:root:'\x13'
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:'\x13'
+INFO:root:'\x13'
+INFO:root:'\x13'
+INFO:root:'\x13'
+INFO:root:'\x13'
+INFO:root:'\x13'
+INFO:root:'\x13'
+INFO:root:'\x13'
+INFO:root:'\x13'
+INFO:root:'\x13'
+INFO:root:'\x13'
+INFO:root:'\x13'
+INFO:root:'\x13'
+INFO:root:'\x13'
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:'\x0e'
+INFO:root:'\x0e'
+INFO:root:Key.ctrl_l
+INFO:root:'\x01'
+INFO:root:'\x03'
+INFO:root:'\x18'
+INFO:root:'\x03'
+INFO:root:'\x1a'
+INFO:root:Key.ctrl_l
+INFO:root:'\x03'
+INFO:root:'\x03'
+INFO:root:'\x03'
+INFO:root:Key.ctrl_l
+INFO:root:'\x03'
+INFO:root:Key.backspace
+INFO:root:Key.ctrl_l
+INFO:root:'\x16'
+INFO:root:Key.enter
+INFO:root:Key.ctrl_l
+INFO:root:'\x13'
+INFO:root:Key.backspace
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:'K'
+INFO:root:'e'
+INFO:root:'y'
+INFO:root:'l'
+INFO:root:'o'
+INFO:root:'g'
+INFO:root:'g'
+INFO:root:'e'
+INFO:root:'r'
+INFO:root:Key.space
+INFO:root:'w'
+INFO:root:'i'
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.shift
+INFO:root:':'
+INFO:root:Key.backspace
+INFO:root:Key.shift
+INFO:root:'_'
+INFO:root:'w'
+INFO:root:'i'
+INFO:root:'t'
+INFO:root:'h'
+INFO:root:'o'
+INFO:root:'u'
+INFO:root:'t'
+INFO:root:Key.shift
+INFO:root:'_'
+INFO:root:Key.shift
+INFO:root:'d'
+INFO:root:'e'
+INFO:root:'b'
+INFO:root:'u'
+INFO:root:'g'
+INFO:root:'i'
+INFO:root:'n'
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.shift
+INFO:root:'('
+INFO:root:Key.shift
+INFO:root:'W'
+INFO:root:'a'
+INFO:root:'r'
+INFO:root:'n'
+INFO:root:'i'
+INFO:root:'n'
+INFO:root:'g'
+INFO:root:Key.space
+INFO:root:Key.backspace
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:')'
+INFO:root:Key.ctrl_l
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.backspace
+INFO:root:'t'
+INFO:root:'i'
+INFO:root:'o'
+INFO:root:'m'
+INFO:root:'e'
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:'m'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:Key.backspace
+INFO:root:Key.shift
+INFO:root:'Y'
+INFO:root:Key.space
+INFO:root:'l'
+INFO:root:'o'
+INFO:root:Key.ctrl_l
+INFO:root:Key.backspace
+INFO:root:'f'
+INFO:root:'o'
+INFO:root:'r'
+INFO:root:'m'
+INFO:root:'a'
+INFO:root:'t'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:'s'
+INFO:root:'o'
+INFO:root:'l'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'p'
+INFO:root:'a'
+INFO:root:'r'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'s'
+INFO:root:'a'
+INFO:root:'b'
+INFO:root:'e'
+INFO:root:'r'
+INFO:root:Key.space
+INFO:root:'l'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'h'
+INFO:root:'o'
+INFO:root:'r'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'y'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'n'
+INFO:root:Key.space
+INFO:root:'q'
+INFO:root:'u'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:'t'
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:'f'
+INFO:root:'d'
+INFO:root:'o'
+INFO:root:'r'
+INFO:root:'m'
+INFO:root:'a'
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:'o'
+INFO:root:'r'
+INFO:root:'m'
+INFO:root:'a'
+INFO:root:'t'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'l'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'q'
+INFO:root:'u'
+INFO:root:'i'
+INFO:root:'e'
+INFO:root:'r'
+INFO:root:'o'
+INFO:root:'e'
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:'o'
+INFO:root:'s'
+INFO:root:'e'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'q'
+INFO:root:'u'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:'t'
+INFO:root:'r'
+INFO:root:'r'
+INFO:root:Key.backspace
+INFO:root:'u'
+INFO:root:'c'
+INFO:root:'u'
+INFO:root:'r'
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:'t'
+INFO:root:'r'
+INFO:root:'u'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:'u'
+INFO:root:'r'
+INFO:root:'a'
+INFO:root:Key.enter
+INFO:root:Key.ctrl_l
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.backspace
+INFO:root:'f'
+INFO:root:'o'
+INFO:root:'r'
+INFO:root:'m'
+INFO:root:'a'
+INFO:root:'t'
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:'.'
+INFO:root:'p'
+INFO:root:'y'
+INFO:root:Key.enter
+INFO:root:Key.ctrl_l
+INFO:root:'\x01'
+INFO:root:'\x03'
+INFO:root:'\x03'
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:'\x16'
+INFO:root:Key.backspace
+INFO:root:Key.shift
+INFO:root:Key.caps_lock
+INFO:root:Key.shift
+INFO:root:')'
+INFO:root:Key.caps_lock
+INFO:root:Key.ctrl_l
+INFO:root:'\x01'
+INFO:root:'\x03'
+INFO:root:'\x03'
+INFO:root:'\x03'
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:'\x16'
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.enter
+INFO:root:Key.up
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:'#'
+INFO:root:Key.space
+INFO:root:Key.shift
+INFO:root:'E'
+INFO:root:'l'
+INFO:root:Key.space
+INFO:root:'d'
+INFO:root:'e'
+INFO:root:'b'
+INFO:root:'u'
+INFO:root:'g'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'r'
+INFO:root:Key.backspace
+INFO:root:Key.space
+INFO:root:Key.backspace
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:'p'
+INFO:root:'a'
+INFO:root:'r'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:'\x01'
+INFO:root:'\x03'
+INFO:root:'\x03'
+INFO:root:'\x03'
+INFO:root:'<'
+INFO:root:Key.cmd
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:'l'
+INFO:root:'e'
+INFO:root:'v'
+INFO:root:'e'
+INFO:root:'l'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:'p'
+INFO:root:'a'
+INFO:root:'r'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'q'
+INFO:root:'u'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'i'
+INFO:root:'n'
+INFO:root:'d'
+INFO:root:'i'
+INFO:root:'q'
+INFO:root:'u'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'l'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:'e'
+INFO:root:'l'
+INFO:root:Key.space
+INFO:root:'f'
+INFO:root:'a'
+INFO:root:'l'
+INFO:root:'l'
+INFO:root:'o'
+INFO:root:Key.ctrl_l
+INFO:root:Key.backspace
+INFO:root:Key.shift
+INFO:root:'Y'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'n'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:'t'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'c'
+INFO:root:'a'
+INFO:root:'s'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'l'
+INFO:root:Key.space
+INFO:root:'l'
+INFO:root:'e'
+INFO:root:'v'
+INFO:root:'e'
+INFO:root:'l'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:'s'
+INFO:root:'o'
+INFO:root:'l'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'p'
+INFO:root:'a'
+INFO:root:'r'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'q'
+INFO:root:'u'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'p'
+INFO:root:'i'
+INFO:root:'l'
+INFO:root:'l'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'l'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'r'
+INFO:root:'r'
+INFO:root:'o'
+INFO:root:'r'
+INFO:root:Key.space
+INFO:root:Key.shift
+INFO:root:'?'
+INFO:root:'?'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'n'
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.enter
+INFO:root:Key.ctrl_l
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:'p'
+INFO:root:'i'
+INFO:root:'l'
+INFO:root:'l'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'l'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'r'
+INFO:root:'r'
+INFO:root:'o'
+INFO:root:'r'
+INFO:root:Key.space
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:'\x03'
+INFO:root:'\x03'
+INFO:root:'\x03'
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:'\x16'
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:')'
+INFO:root:Key.backspace
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:'('
+INFO:root:Key.space
+INFO:root:'s'
+INFO:root:'i'
+INFO:root:Key.space
+INFO:root:'n'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'l'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'p'
+INFO:root:'i'
+INFO:root:'l'
+INFO:root:'l'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'n'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'i'
+INFO:root:'n'
+INFO:root:Key.backspace
+INFO:root:'g'
+INFO:root:'n'
+INFO:root:'o'
+INFO:root:'r'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:Key.shift
+INFO:root:'Y'
+INFO:root:Key.space
+INFO:root:'p'
+INFO:root:'o'
+INFO:root:'r'
+INFO:root:'q'
+INFO:root:'u'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'q'
+INFO:root:'u'
+INFO:root:'e'
+INFO:root:'r'
+INFO:root:'r'
+INFO:root:'i'
+INFO:root:Key.space
+INFO:root:'a'
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'i'
+INFO:root:'g'
+INFO:root:'n'
+INFO:root:'o'
+INFO:root:'r'
+INFO:root:'a'
+INFO:root:'r'
+INFO:root:'l'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:Key.shift
+INFO:root:'='
+INFO:root:Key.backspace
+INFO:root:'='
+INFO:root:'?'
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:'?'
+INFO:root:'?'
+INFO:root:Key.enter
+INFO:root:Key.backspace
+INFO:root:'l'
+INFO:root:'o'
+INFO:root:'g'
+INFO:root:'g'
+INFO:root:'i'
+INFO:root:'n'
+INFO:root:'g'
+INFO:root:Key.space
+INFO:root:Key.backspace
+INFO:root:'.'
+INFO:root:'i'
+INFO:root:'n'
+INFO:root:'f'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'p'
+INFO:root:'e'
+INFO:root:'r'
+INFO:root:'o'
+INFO:root:Key.ctrl_l
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.shift
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'i'
+INFO:root:'g'
+INFO:root:'n'
+INFO:root:'o'
+INFO:root:'r'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:Key.ctrl_l
+INFO:root:Key.left
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:'y'
+INFO:root:Key.space
+INFO:root:Key.ctrl_l
+INFO:root:Key.down
+INFO:root:Key.down
+INFO:root:Key.up
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:'t'
+INFO:root:'o'
+INFO:root:'d'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'t'
+INFO:root:'i'
+INFO:root:'p'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'d'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'r'
+INFO:root:'r'
+INFO:root:'o'
+INFO:root:'i'
+INFO:root:'r'
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:'r'
+INFO:root:Key.space
+INFO:root:'q'
+INFO:root:'u'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:'t'
+INFO:root:['´']
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'p'
+INFO:root:'o'
+INFO:root:'r'
+INFO:root:Key.space
+INFO:root:'d'
+INFO:root:'e'
+INFO:root:'b'
+INFO:root:'a'
+INFO:root:'j'
+INFO:root:'o'
+INFO:root:'p'
+INFO:root:Key.backspace
+INFO:root:Key.ctrl_l
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:'e'
+INFO:root:'n'
+INFO:root:Key.space
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:'('
+INFO:root:'W'
+INFO:root:'A'
+INFO:root:'N'
+INFO:root:Key.backspace
+INFO:root:'R'
+INFO:root:'N'
+INFO:root:'I'
+INFO:root:'N'
+INFO:root:'G'
+INFO:root:Key.ctrl_l
+INFO:root:Key.down
+INFO:root:Key.right
+INFO:root:Key.enter
+INFO:root:Key.enter
+INFO:root:Key.ctrl_l
+INFO:root:'\x16'
+INFO:root:Key.shift
+INFO:root:'"'
+INFO:root:'"'
+INFO:root:'"'
+INFO:root:'"'
+INFO:root:'"'
+INFO:root:'"'
+INFO:root:Key.ctrl_l
+INFO:root:'\x01'
+INFO:root:Key.ctrl_l
+INFO:root:'\x1a'
+INFO:root:'\x1a'
+INFO:root:'\x1a'
+INFO:root:'\x1a'
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:'#'
+INFO:root:Key.down
+INFO:root:Key.left
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:'#'
+INFO:root:Key.down
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.right
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:'#'
+INFO:root:Key.down
+INFO:root:Key.left
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:'#'
+INFO:root:Key.down
+INFO:root:Key.left
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:'#'
+INFO:root:Key.space
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'p'
+INFO:root:'o'
+INFO:root:'r'
+INFO:root:Key.space
+INFO:root:'d'
+INFO:root:'e'
+INFO:root:Key.backspace
+INFO:root:'e'
+INFO:root:'b'
+INFO:root:'a'
+INFO:root:'j'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'y'
+INFO:root:Key.space
+INFO:root:'a'
+INFO:root:'c'
+INFO:root:'e'
+INFO:root:'p'
+INFO:root:'t'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'l'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'n'
+INFO:root:'t'
+INFO:root:'r'
+INFO:root:'a'
+INFO:root:'d'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'d'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'k'
+INFO:root:'e'
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.enter
+INFO:root:Key.enter
+INFO:root:Key.up
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:'#'
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:'T'
+INFO:root:Key.backspace
+INFO:root:Key.shift
+INFO:root:'T'
+INFO:root:'I'
+INFO:root:'P'
+INFO:root:'O'
+INFO:root:'P'
+INFO:root:Key.backspace
+INFO:root:Key.space
+INFO:root:'d'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.caps_lock
+INFO:root:'d'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'r'
+INFO:root:'r'
+INFO:root:'o'
+INFO:root:'r'
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:'d'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'d'
+INFO:root:'e'
+INFO:root:'b'
+INFO:root:'u'
+INFO:root:'g'
+INFO:root:Key.caps_lock
+INFO:root:Key.space
+INFO:root:'l'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'t'
+INFO:root:'e'
+INFO:root:'c'
+INFO:root:'l'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:Key.backspace
+INFO:root:Key.shift
+INFO:root:'.'
+INFO:root:Key.ctrl_l
+INFO:root:'\x01'
+INFO:root:'\x03'
+INFO:root:'\x03'
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:'\x16'
+INFO:root:Key.enter
+INFO:root:Key.shift
+INFO:root:'E'
+INFO:root:'x'
+INFO:root:'a'
+INFO:root:'c'
+INFO:root:'t'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'l'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:Key.ctrl_l
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:'t'
+INFO:root:['´']
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.space
+INFO:root:'d'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:Key.shift
+INFO:root:'W'
+INFO:root:'a'
+INFO:root:'r'
+INFO:root:'n'
+INFO:root:'i'
+INFO:root:'n'
+INFO:root:'g'
+INFO:root:Key.ctrl_l
+INFO:root:Key.backspace
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:'('
+INFO:root:'W'
+INFO:root:'A'
+INFO:root:'R'
+INFO:root:'N'
+INFO:root:'I'
+INFO:root:'N'
+INFO:root:'G'
+INFO:root:Key.ctrl_l
+INFO:root:'\x01'
+INFO:root:'\x03'
+INFO:root:'\x03'
+INFO:root:Key.ctrl_l
+INFO:root:'\x16'
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.enter
+INFO:root:'E'
+INFO:root:'n'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'l'
+INFO:root:Key.space
+INFO:root:'c'
+INFO:root:'o'
+INFO:root:'d'
+INFO:root:'i'
+INFO:root:'g'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'n'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'t'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'p'
+INFO:root:'r'
+INFO:root:'e'
+INFO:root:'o'
+INFO:root:'c'
+INFO:root:'u'
+INFO:root:'p'
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:'l'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'h'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'c'
+INFO:root:'h'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:Key.backspace
+INFO:root:'d'
+INFO:root:'e'
+INFO:root:Key.backspace
+INFO:root:'r'
+INFO:root:'e'
+INFO:root:'d'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'p'
+INFO:root:'a'
+INFO:root:'r'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'q'
+INFO:root:'u'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'n'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'f'
+INFO:root:'u'
+INFO:root:'n'
+INFO:root:'c'
+INFO:root:'i'
+INFO:root:'o'
+INFO:root:'e'
+INFO:root:Key.backspace
+INFO:root:'n'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'d'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'c'
+INFO:root:'h'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'m'
+INFO:root:'i'
+INFO:root:'r'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'l'
+INFO:root:Key.space
+INFO:root:'c'
+INFO:root:'o'
+INFO:root:'m'
+INFO:root:'e'
+INFO:root:'n'
+INFO:root:'t'
+INFO:root:'a'
+INFO:root:'r'
+INFO:root:'i'
+INFO:root:'o'
+INFO:root:Key.enter
+INFO:root:Key.shift
+INFO:root:'B'
+INFO:root:'a'
+INFO:root:'j'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'s'
+INFO:root:'u'
+INFO:root:'b'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'l'
+INFO:root:Key.space
+INFO:root:'f'
+INFO:root:'l'
+INFO:root:Key.backspace
+INFO:root:'i'
+INFO:root:'l'
+INFO:root:'t'
+INFO:root:'r'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'a'
+INFO:root:Key.backspace
+INFO:root:'h'
+INFO:root:'a'
+INFO:root:'s'
+INFO:root:'t'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'d'
+INFO:root:'e'
+INFO:root:'b'
+INFO:root:'u'
+INFO:root:'g'
+INFO:root:Key.space
+INFO:root:Key.shift
+INFO:root:'?'
+INFO:root:'?'
+INFO:root:Key.enter
+INFO:root:Key.shift
+INFO:root:'A'
+INFO:root:'h'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'l'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'r'
+INFO:root:'r'
+INFO:root:'o'
+INFO:root:'r'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'l'
+INFO:root:Key.space
+INFO:root:'m'
+INFO:root:['´']
+INFO:root:'a'
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:'a'
+INFO:root:'l'
+INFO:root:'t'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'y'
+INFO:root:Key.space
+INFO:root:Key.shift
+INFO:root:'D'
+INFO:root:'e'
+INFO:root:'b'
+INFO:root:'u'
+INFO:root:'g'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'l'
+INFO:root:Key.space
+INFO:root:'m'
+INFO:root:['´']
+INFO:root:'a'
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:'a'
+INFO:root:'l'
+INFO:root:'t'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'c'
+INFO:root:'o'
+INFO:root:'m'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'d'
+INFO:root:'e'
+INFO:root:'c'
+INFO:root:'i'
+INFO:root:'u'
+INFO:root:'r'
+INFO:root:Key.space
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:'r'
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:'r'
+INFO:root:Key.space
+INFO:root:'b'
+INFO:root:'i'
+INFO:root:'e'
+INFO:root:'n'
+INFO:root:Key.space
+INFO:root:'n'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:Key.shift
+INFO:root:'?'
+INFO:root:'?'
+INFO:root:Key.enter
+INFO:root:Key.shift
+INFO:root:'E'
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:'l'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'q'
+INFO:root:'u'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'h'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'d'
+INFO:root:'i'
+INFO:root:'u'
+INFO:root:'c'
+INFO:root:'h'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:'c'
+INFO:root:'h'
+INFO:root:Key.ctrl_l
+INFO:root:'\x01'
+INFO:root:Key.backspace
+INFO:root:Key.down
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.down
+INFO:root:Key.down
+INFO:root:Key.down
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.space
+INFO:root:'1'
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:'1'
+INFO:root:Key.space
+INFO:root:Key.up
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:'2'
+INFO:root:Key.space
+INFO:root:Key.up
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.down
+INFO:root:Key.down
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.right
+INFO:root:Key.space
+INFO:root:'1'
+INFO:root:Key.space
+INFO:root:'-'
+INFO:root:Key.space
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.right
+INFO:root:'2'
+INFO:root:Key.space
+INFO:root:'-'
+INFO:root:Key.space
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.space
+INFO:root:Key.backspace
+INFO:root:Key.left
+INFO:root:Key.space
+INFO:root:Key.up
+INFO:root:Key.left
+INFO:root:'3'
+INFO:root:Key.space
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.space
+INFO:root:'3'
+INFO:root:Key.space
+INFO:root:'-'
+INFO:root:Key.space
+INFO:root:Key.space
+INFO:root:'3'
+INFO:root:Key.backspace
+INFO:root:'4'
+INFO:root:Key.space
+INFO:root:'.'
+INFO:root:Key.space
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:'-'
+INFO:root:Key.space
+INFO:root:Key.space
+INFO:root:'5'
+INFO:root:Key.space
+INFO:root:'-'
+INFO:root:Key.space
+INFO:root:Key.enter
+INFO:root:Key.enter
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:'1'
+INFO:root:'-'
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.shift
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:'#'
+INFO:root:Key.space
+INFO:root:Key.backspace
+INFO:root:Key.space
+INFO:root:'1'
+INFO:root:Key.space
+INFO:root:'-'
+INFO:root:'-'
+INFO:root:'-'
+INFO:root:'-'
+INFO:root:Key.shift
+INFO:root:'>'
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.ctrl_l
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.left
+INFO:root:Key.shift
+INFO:root:'>'
+INFO:root:Key.backspace
+INFO:root:'<'
+INFO:root:Key.ctrl_l
+INFO:root:Key.right
+INFO:root:Key.space
+INFO:root:'5'
+INFO:root:Key.space
+INFO:root:Key.backspace
+INFO:root:Key.enter
+INFO:root:Key.enter
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:'E'
+INFO:root:'l'
+INFO:root:Key.space
+INFO:root:'m'
+INFO:root:['´']
+INFO:root:'a'
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:Key.ctrl_l
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:'#'
+INFO:root:Key.space
+INFO:root:Key.shift
+INFO:root:'E'
+INFO:root:'l'
+INFO:root:Key.space
+INFO:root:'m'
+INFO:root:['´']
+INFO:root:'a'
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:'b'
+INFO:root:'a'
+INFO:root:'j'
+INFO:root:'o'
+INFO:root:'p'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:'n'
+INFO:root:'i'
+INFO:root:'v'
+INFO:root:'e'
+INFO:root:'l'
+INFO:root:Key.space
+INFO:root:'m'
+INFO:root:'e'
+INFO:root:'n'
+INFO:root:'o'
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:'g'
+INFO:root:'r'
+INFO:root:'a'
+INFO:root:'c'
+INFO:root:Key.backspace
+INFO:root:'v'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'y'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'l'
+INFO:root:Key.space
+INFO:root:'m'
+INFO:root:['´']
+INFO:root:'a'
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:'a'
+INFO:root:'l'
+INFO:root:'t'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:'n'
+INFO:root:'i'
+INFO:root:'v'
+INFO:root:'b'
+INFO:root:Key.backspace
+INFO:root:'e'
+INFO:root:'l'
+INFO:root:Key.space
+INFO:root:'m'
+INFO:root:['´']
+INFO:root:'a'
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:'g'
+INFO:root:'r'
+INFO:root:'a'
+INFO:root:'v'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:Key.ctrl_l
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:'y'
+INFO:root:Key.space
+INFO:root:Key.shift
+INFO:root:'B'
+INFO:root:'a'
+INFO:root:'j'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'j'
+INFO:root:Key.backspace
+INFO:root:'h'
+INFO:root:'a'
+INFO:root:'s'
+INFO:root:'t'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:'D'
+INFO:root:'e'
+INFO:root:'b'
+INFO:root:'u'
+INFO:root:'g'
+INFO:root:Key.space
+INFO:root:Key.backspace
+INFO:root:Key.space
+INFO:root:'p'
+INFO:root:'a'
+INFO:root:'r'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'q'
+INFO:root:'u'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'a'
+INFO:root:'c'
+INFO:root:'e'
+INFO:root:'p'
+INFO:root:'t'
+INFO:root:'e'
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.right
+INFO:root:Key.backspace
+INFO:root:'i'
+INFO:root:'n'
+INFO:root:'t'
+INFO:root:'e'
+INFO:root:'m'
+INFO:root:Key.backspace
+INFO:root:'n'
+INFO:root:'t'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'b'
+INFO:root:'a'
+INFO:root:'j'
+INFO:root:'a'
+INFO:root:'r'
+INFO:root:Key.ctrl_l
+INFO:root:'\x01'
+INFO:root:'\x03'
+INFO:root:'\x03'
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:'\x16'
+INFO:root:Key.enter
+INFO:root:Key.backspace
+INFO:root:'5'
+INFO:root:Key.up
+INFO:root:Key.backspace
+INFO:root:'4'
+INFO:root:Key.up
+INFO:root:Key.backspace
+INFO:root:'2'
+INFO:root:Key.backspace
+INFO:root:'3'
+INFO:root:Key.up
+INFO:root:Key.backspace
+INFO:root:'3'
+INFO:root:Key.backspace
+INFO:root:'2'
+INFO:root:Key.up
+INFO:root:Key.backspace
+INFO:root:'1'
+INFO:root:Key.shift
+INFO:root:'Q'
+INFO:root:Key.backspace
+INFO:root:Key.shift
+INFO:root:'Q'
+INFO:root:'u'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'q'
+INFO:root:'u'
+INFO:root:'i'
+INFO:root:'e'
+INFO:root:'r'
+INFO:root:'e'
+INFO:root:'d'
+INFO:root:Key.space
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:'d'
+INFO:root:'e'
+INFO:root:'c'
+INFO:root:'i'
+INFO:root:'r'
+INFO:root:Key.space
+INFO:root:'c'
+INFO:root:'o'
+INFO:root:'m'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'f'
+INFO:root:'i'
+INFO:root:'l'
+INFO:root:'t'
+INFO:root:'r'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'m'
+INFO:root:['´']
+INFO:root:'i'
+INFO:root:'n'
+INFO:root:'i'
+INFO:root:'m'
+INFO:root:'o'
+INFO:root:'p'
+INFO:root:Key.space
+INFO:root:Key.shift
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.space
+INFO:root:Key.shift
+INFO:root:'='
+INFO:root:'?'
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:'?'
+INFO:root:'?'
+INFO:root:Key.enter
+INFO:root:Key.ctrl_l
+INFO:root:Key.shift
+INFO:root:'A'
+INFO:root:'h'
+INFO:root:Key.space
+INFO:root:'q'
+INFO:root:'u'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'a'
+INFO:root:'v'
+INFO:root:'e'
+INFO:root:'c'
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:'q'
+INFO:root:'u'
+INFO:root:'i'
+INFO:root:'e'
+INFO:root:'r'
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:'q'
+INFO:root:'u'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'d'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:Key.shift
+INFO:root:'W'
+INFO:root:'Q'
+INFO:root:Key.backspace
+INFO:root:'a'
+INFO:root:'r'
+INFO:root:'n'
+INFO:root:'i'
+INFO:root:'n'
+INFO:root:'g'
+INFO:root:Key.space
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:'?'
+INFO:root:'?'
+INFO:root:Key.space
+INFO:root:'o'
+INFO:root:'p'
+INFO:root:Key.space
+INFO:root:Key.shift
+INFO:root:'E'
+INFO:root:'r'
+INFO:root:'r'
+INFO:root:'o'
+INFO:root:'r'
+INFO:root:Key.space
+INFO:root:Key.ctrl_l
+INFO:root:Key.left
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.space
+INFO:root:Key.ctrl_l
+INFO:root:Key.down
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:Key.shift
+INFO:root:'C'
+INFO:root:'r'
+INFO:root:'i'
+INFO:root:'t'
+INFO:root:'i'
+INFO:root:'c'
+INFO:root:'i'
+INFO:root:Key.backspace
+INFO:root:'a'
+INFO:root:'l'
+INFO:root:Key.space
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:'?'
+INFO:root:'?'
+INFO:root:Key.enter
+INFO:root:Key.ctrl_l
+INFO:root:'\x14'
+INFO:root:Key.shift
+INFO:root:'Q'
+INFO:root:'u'
+INFO:root:'i'
+INFO:root:'e'
+INFO:root:'n'
+INFO:root:Key.space
+INFO:root:'c'
+INFO:root:'r'
+INFO:root:'e'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'v'
+INFO:root:'i'
+INFO:root:'s'
+INFO:root:'u'
+INFO:root:'a'
+INFO:root:'l'
+INFO:root:Key.space
+INFO:root:Key.down
+INFO:root:Key.enter
+INFO:root:Key.ctrl_l
+INFO:root:'\x14'
+INFO:root:Key.ctrl_l
+INFO:root:'\x16'
+INFO:root:Key.enter
+INFO:root:Key.ctrl_l
+INFO:root:'\x14'
+INFO:root:Key.ctrl_l
+INFO:root:'\x16'
+INFO:root:Key.enter
+INFO:root:Key.left
+INFO:root:Key.space
+INFO:root:Key.up
+INFO:root:Key.up
+INFO:root:Key.up
+INFO:root:Key.up
+INFO:root:Key.up
+INFO:root:Key.up
+INFO:root:Key.up
+INFO:root:Key.up
+INFO:root:Key.space
+INFO:root:'f'
+INFO:root:Key.ctrl_l
+INFO:root:'\x14'
+INFO:root:Key.shift
+INFO:root:'T'
+INFO:root:'r'
+INFO:root:'a'
+INFO:root:Key.enter
+INFO:root:Key.shift
+INFO:root:'C'
+INFO:root:'h'
+INFO:root:'e'
+INFO:root:'m'
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:'t'
+INFO:root:'r'
+INFO:root:'y'
+INFO:root:Key.backspace
+INFO:root:'y'
+INFO:root:Key.space
+INFO:root:'i'
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'s'
+INFO:root:'t'
+INFO:root:'u'
+INFO:root:'d'
+INFO:root:'y'
+INFO:root:Key.space
+INFO:root:'o'
+INFO:root:'f'
+INFO:root:Key.space
+INFO:root:'m'
+INFO:root:'e'
+INFO:root:'t'
+INFO:root:'t'
+INFO:root:'e'
+INFO:root:'r'
+INFO:root:Key.space
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:'\x01'
+INFO:root:Key.backspace
+INFO:root:Key.left
+INFO:root:Key.space
+INFO:root:Key.space
+INFO:root:Key.up
+INFO:root:Key.up
+INFO:root:Key.up
+INFO:root:Key.up
+INFO:root:Key.up
+INFO:root:Key.ctrl_l
+INFO:root:'\x14'
+INFO:root:Key.shift
+INFO:root:Key.ctrl_l
+INFO:root:'\x16'
+INFO:root:Key.shift
+INFO:root:Key.enter
+INFO:root:Key.enter
+INFO:root:'E'
+INFO:root:'x'
+INFO:root:'p'
+INFO:root:'l'
+INFO:root:'i'
+INFO:root:'c'
+INFO:root:'a'
+INFO:root:'m'
+INFO:root:'e'
+INFO:root:'l'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'m'
+INFO:root:'e'
+INFO:root:'j'
+INFO:root:'o'
+INFO:root:'r'
+INFO:root:Key.space
+INFO:root:Key.enter
+INFO:root:Key.shift
+INFO:root:'A'
+INFO:root:'h'
+INFO:root:Key.space
+INFO:root:'o'
+INFO:root:'s'
+INFO:root:'e'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'l'
+INFO:root:Key.space
+INFO:root:'l'
+INFO:root:'o'
+INFO:root:'g'
+INFO:root:'g'
+INFO:root:Key.backspace
+INFO:root:'g'
+INFO:root:'i'
+INFO:root:'n'
+INFO:root:'g'
+INFO:root:Key.space
+INFO:root:'s'
+INFO:root:'e'
+INFO:root:'i'
+INFO:root:'e'
+INFO:root:'m'
+INFO:root:'p'
+INFO:root:'r'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'s'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'f'
+INFO:root:'i'
+INFO:root:'j'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'n'
+INFO:root:Key.space
+INFO:root:'l'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'m'
+INFO:root:'i'
+INFO:root:'n'
+INFO:root:'i'
+INFO:root:'m'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:Key.shift
+INFO:root:'n'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:Key.shift
+INFO:root:'?'
+INFO:root:Key.enter
+INFO:root:Key.shift
+INFO:root:'E'
+INFO:root:'n'
+INFO:root:'t'
+INFO:root:'o'
+INFO:root:'n'
+INFO:root:'c'
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:'b'
+INFO:root:'a'
+INFO:root:'j'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'h'
+INFO:root:'a'
+INFO:root:'s'
+INFO:root:'t'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'d'
+INFO:root:'e'
+INFO:root:'b'
+INFO:root:'u'
+INFO:root:'g'
+INFO:root:'i'
+INFO:root:'n'
+INFO:root:'g'
+INFO:root:Key.space
+INFO:root:Key.enter
+INFO:root:Key.shift
+INFO:root:'O'
+INFO:root:'s'
+INFO:root:'e'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'l'
+INFO:root:'i'
+INFO:root:'g'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'d'
+INFO:root:'e'
+INFO:root:'b'
+INFO:root:'u'
+INFO:root:'g'
+INFO:root:Key.space
+INFO:root:'y'
+INFO:root:Key.space
+INFO:root:'p'
+INFO:root:'o'
+INFO:root:'u'
+INFO:root:'n'
+INFO:root:'t'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:Key.shift
+INFO:root:'?'
+INFO:root:Key.backspace
+INFO:root:Key.enter
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:'e'
+INFO:root:'r'
+INFO:root:'r'
+INFO:root:'o'
+INFO:root:'r'
+INFO:root:Key.space
+INFO:root:'y'
+INFO:root:Key.space
+INFO:root:'s'
+INFO:root:'o'
+INFO:root:'l'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'a'
+INFO:root:'c'
+INFO:root:'e'
+INFO:root:'p'
+INFO:root:'o'
+INFO:root:Key.backspace
+INFO:root:'r'
+INFO:root:Key.backspace
+INFO:root:'t'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:Key.shift
+INFO:root:Key.caps_lock
+INFO:root:'d'
+INFO:root:'e'
+INFO:root:'b'
+INFO:root:'u'
+INFO:root:'g'
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.shift
+INFO:root:'('
+INFO:root:Key.ctrl_l
+INFO:root:Key.right
+INFO:root:Key.shift
+INFO:root:')'
+INFO:root:Key.caps_lock
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:'y'
+INFO:root:Key.space
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.space
+INFO:root:'y'
+INFO:root:Key.space
+INFO:root:Key.backspace
+INFO:root:Key.ctrl_l
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:'\x01'
+INFO:root:'\x03'
+INFO:root:'\x03'
+INFO:root:'\x03'
+INFO:root:Key.ctrl_l
+INFO:root:'\x16'
+INFO:root:Key.enter
+INFO:root:Key.space
+INFO:root:'y'
+INFO:root:Key.space
+INFO:root:'l'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'q'
+INFO:root:'u'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:'t'
+INFO:root:['´']
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'p'
+INFO:root:'o'
+INFO:root:'r'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'n'
+INFO:root:'c'
+INFO:root:'i'
+INFO:root:'m'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'d'
+INFO:root:'e'
+INFO:root:'l'
+INFO:root:Key.space
+INFO:root:'m'
+INFO:root:['´']
+INFO:root:'i'
+INFO:root:'n'
+INFO:root:'i'
+INFO:root:'m'
+INFO:root:'o'
+INFO:root:Key.ctrl_l
+INFO:root:'\x01'
+INFO:root:'\x03'
+INFO:root:'\x03'
+INFO:root:Key.ctrl_l
+INFO:root:'\x16'
+INFO:root:Key.enter
+INFO:root:Key.shift
+INFO:root:'N'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'l'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'v'
+INFO:root:'o'
+INFO:root:'y'
+INFO:root:Key.space
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'a'
+INFO:root:'ñ'
+INFO:root:'a'
+INFO:root:'d'
+INFO:root:'i'
+INFO:root:'r'
+INFO:root:Key.space
+INFO:root:Key.enter
+INFO:root:Key.shift
+INFO:root:'n'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'l'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'v'
+INFO:root:'o'
+INFO:root:'y'
+INFO:root:Key.space
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'a'
+INFO:root:'ñ'
+INFO:root:'a'
+INFO:root:'d'
+INFO:root:'i'
+INFO:root:'r'
+INFO:root:Key.space
+INFO:root:'o'
+INFO:root:'p'
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:'p'
+INFO:root:'o'
+INFO:root:'r'
+INFO:root:'q'
+INFO:root:'u'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:'t'
+INFO:root:['´']
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'c'
+INFO:root:'h'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'p'
+INFO:root:'o'
+INFO:root:'s'
+INFO:root:'t'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:'\x13'
+INFO:root:'\x13'
+INFO:root:'\x13'
+INFO:root:Key.backspace
+INFO:root:'k'
+INFO:root:'e'
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.backspace
+INFO:root:Key.shift
+INFO:root:'D'
+INFO:root:'e'
+INFO:root:'b'
+INFO:root:'u'
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:'E'
+INFO:root:'B'
+INFO:root:'U'
+INFO:root:'G'
+INFO:root:Key.enter
+INFO:root:Key.enter
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:Key.ctrl_l
+INFO:root:Key.alt_gr
+INFO:root:'#'
+INFO:root:Key.space
+INFO:root:Key.shift
+INFO:root:'D'
+INFO:root:Key.shift
+INFO:root:Key.backspace
+INFO:root:'F'
+INFO:root:'o'
+INFO:root:'r'
+INFO:root:'m'
+INFO:root:'a'
+INFO:root:'t'
+INFO:root:Key.space
+INFO:root:'l'
+INFO:root:'l'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'q'
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'q'
+INFO:root:'u'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'h'
+INFO:root:'a'
+INFO:root:'c'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:'d'
+INFO:root:'a'
+INFO:root:'r'
+INFO:root:'l'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'u'
+INFO:root:'n'
+INFO:root:Key.space
+INFO:root:'f'
+INFO:root:'o'
+INFO:root:'r'
+INFO:root:'m'
+INFO:root:'a'
+INFO:root:'t'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:','
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:'d'
+INFO:root:'e'
+INFO:root:'c'
+INFO:root:'i'
+INFO:root:'r'
+INFO:root:Key.space
+INFO:root:'h'
+INFO:root:'a'
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:'p'
+INFO:root:'o'
+INFO:root:'n'
+INFO:root:'e'
+INFO:root:'r'
+INFO:root:'l'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'u'
+INFO:root:'n'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:'c'
+INFO:root:'v'
+INFO:root:Key.backspace
+INFO:root:'t'
+INFO:root:'r'
+INFO:root:'u'
+INFO:root:'c'
+INFO:root:'u'
+INFO:root:Key.backspace
+INFO:root:'t'
+INFO:root:'r'
+INFO:root:'u'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:'u'
+INFO:root:'r'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'p'
+INFO:root:'a'
+INFO:root:'r'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'q'
+INFO:root:'u'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'s'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'l'
+INFO:root:'e'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'d'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'u'
+INFO:root:'n'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'f'
+INFO:root:'o'
+INFO:root:'r'
+INFO:root:'m'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'y'
+INFO:root:Key.backspace
+INFO:root:'u'
+INFO:root:Key.space
+INFO:root:'o'
+INFO:root:'t'
+INFO:root:'r'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'p'
+INFO:root:'o'
+INFO:root:'r'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'j'
+INFO:root:'e'
+INFO:root:'m'
+INFO:root:'p'
+INFO:root:'l'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'c'
+INFO:root:'o'
+INFO:root:'n'
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:':'
+INFO:root:Key.space
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:'('
+INFO:root:Key.ctrl_l
+INFO:root:'\x16'
+INFO:root:'\x03'
+INFO:root:Key.right
+INFO:root:Key.ctrl_l
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.left
+INFO:root:Key.right
+INFO:root:Key.left
+INFO:root:Key.backspace
+INFO:root:Key.ctrl_l
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.ctrl_l
+INFO:root:Key.left
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.right
+INFO:root:Key.space
+INFO:root:'h'
+INFO:root:'a'
+INFO:root:'c'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:Key.ctrl_l
+INFO:root:'\x01'
+INFO:root:Key.backspace
+INFO:root:'q'
+INFO:root:'u'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:Key.ctrl_l
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:'e'
+INFO:root:'l'
+INFO:root:Key.space
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:Key.shift
+INFO:root:'%'
+INFO:root:Key.space
+INFO:root:'h'
+INFO:root:'a'
+INFO:root:'c'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'q'
+INFO:root:'u'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'c'
+INFO:root:'o'
+INFO:root:'m'
+INFO:root:'i'
+INFO:root:'e'
+INFO:root:'n'
+INFO:root:'c'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'l'
+INFO:root:Key.space
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:'y'
+INFO:root:Key.space
+INFO:root:'l'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'s'
+INFO:root:Key.space
+INFO:root:'q'
+INFO:root:'u'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'a'
+INFO:root:'c'
+INFO:root:'a'
+INFO:root:'b'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'b'
+INFO:root:'a'
+INFO:root:'s'
+INFO:root:'i'
+INFO:root:'c'
+INFO:root:'a'
+INFO:root:'m'
+INFO:root:'e'
+INFO:root:'n'
+INFO:root:'t'
+INFO:root:'e'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'n'
+INFO:root:Key.space
+INFO:root:'u'
+INFO:root:'n'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'m'
+INFO:root:'u'
+INFO:root:'e'
+INFO:root:'s'
+INFO:root:'t'
+INFO:root:'a'
+INFO:root:Key.backspace
+INFO:root:'r'
+INFO:root:'a'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'l'
+INFO:root:Key.space
+INFO:root:'t'
+INFO:root:'i'
+INFO:root:'e'
+INFO:root:'m'
+INFO:root:'p'
+INFO:root:'o'
+INFO:root:Key.space
+INFO:root:'y'
+INFO:root:Key.space
+INFO:root:'e'
+INFO:root:'l'
+INFO:root:Key.space
+INFO:root:'m'
+INFO:root:'e'
+INFO:root:'n'
+INFO:root:'s'
+INFO:root:'a'
+INFO:root:'k'
+INFO:root:'j'
+INFO:root:'e'
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:Key.backspace
+INFO:root:'j'
+INFO:root:'e'
+INFO:root:'j'
+INFO:root:'f'
+INFO:root:'b'
+INFO:root:'j'
+INFO:root:'f'
+INFO:root:'k'
+INFO:root:'e'
+INFO:root:'a'
+INFO:root:'b'
+INFO:root:'j'
+INFO:root:'f'
+INFO:root:'e'
+INFO:root:'b'
+2026-05-31 23:35:01,532 - 'k'
+2026-05-31 23:35:01,564 - 'n'
+2026-05-31 23:35:01,583 - 'e'
+2026-05-31 23:35:01,587 - 'f'
+2026-05-31 23:35:01,698 - 'o'
+2026-05-31 23:35:01,720 - 'j'
+2026-05-31 23:35:01,720 - 'k'
+2026-05-31 23:35:01,809 - 'f'
+2026-05-31 23:35:01,819 - 'h'
+2026-05-31 23:35:01,827 - 'n'
+2026-05-31 23:35:01,903 - 'j'
+2026-05-31 23:35:01,903 - 'k'
+2026-05-31 23:35:01,913 - 'l'
+2026-05-31 23:35:02,006 - 'n'
+2026-05-31 23:35:02,019 - 'f'
+2026-05-31 23:35:02,119 - 'j'
+2026-05-31 23:35:02,120 - 'k'
+2026-05-31 23:35:02,120 - 'l'
+2026-05-31 23:35:02,124 - 'e'
+2026-05-31 23:35:02,158 - 'w'
+2026-05-31 23:35:02,171 - 'h'
+2026-05-31 23:35:02,182 - 's'
+2026-05-31 23:35:02,260 - 'f'
+2026-05-31 23:35:02,295 - 'u'
+2026-05-31 23:35:02,295 - 'j'
+2026-05-31 23:35:02,370 - 'h'
+2026-05-31 23:35:02,399 - 's'
+2026-05-31 23:35:02,478 - 'f'
+2026-05-31 23:35:02,479 - 'u'
+2026-05-31 23:35:02,639 - 's'
+2026-05-31 23:35:02,714 - 'f'
+2026-05-31 23:35:02,719 - 'j'
+2026-05-31 23:35:02,732 - 'h'
+2026-05-31 23:35:02,738 - 'v'
+2026-05-31 23:35:02,765 - 'b'
+2026-05-31 23:35:02,848 - 's'
+2026-05-31 23:35:31,608 - Key.ctrl_l
+2026-05-31 23:35:32,273 - Key.ctrl_l
+2026-05-31 23:35:32,563 - '\x1a'
+2026-05-31 23:35:48,590 - Key.ctrl_l
+2026-05-31 23:35:49,012 - '\x16'
+2026-05-31 23:35:49,681 - Key.shift
+2026-05-31 23:35:50,191 - Key.shift
+2026-05-31 23:35:50,221 - Key.shift
+2026-05-31 23:35:50,251 - Key.shift
+2026-05-31 23:35:50,282 - Key.shift
+2026-05-31 23:35:50,328 - Key.shift
+2026-05-31 23:35:50,358 - Key.shift
+2026-05-31 23:35:50,389 - Key.shift
+2026-05-31 23:35:50,419 - Key.shift
+2026-05-31 23:35:50,423 - Key.enter
+2026-05-31 23:35:50,564 - Key.enter
+2026-05-31 23:35:51,418 - 'E'
+2026-05-31 23:35:51,562 - 'l'
+2026-05-31 23:35:51,711 - Key.space
+2026-05-31 23:35:52,305 - '5'
+2026-05-31 23:35:52,986 - '3'
+2026-05-31 23:35:53,257 - '2'
+2026-05-31 23:35:54,073 - Key.space
+2026-05-31 23:35:54,394 - 'q'
+2026-05-31 23:35:54,562 - 'u'
+2026-05-31 23:35:54,738 - Key.space
+2026-05-31 23:35:54,763 - 'e'
+2026-05-31 23:35:54,986 - 'e'
+2026-05-31 23:35:55,200 - 's'
+2026-05-31 23:35:55,213 - Key.space
+2026-05-31 23:35:55,540 - Key.backspace
+2026-05-31 23:35:55,720 - Key.backspace
+2026-05-31 23:35:55,923 - Key.backspace
+2026-05-31 23:35:56,064 - Key.backspace
+2026-05-31 23:35:56,218 - Key.backspace
+2026-05-31 23:35:56,467 - 'e'
+2026-05-31 23:35:56,588 - Key.space
+2026-05-31 23:35:56,694 - 'e'
+2026-05-31 23:35:56,897 - 's'
+2026-05-31 23:35:57,023 - Key.space
+2026-05-31 23:35:57,269 - Key.shift
+2026-05-31 23:35:57,536 - '?'
+2026-05-31 23:35:57,681 - '?'
+2026-05-31 23:35:57,849 - Key.enter
+2026-05-31 23:36:28,812 - Key.ctrl_l
+2026-05-31 23:36:28,875 - Key.backspace
+2026-05-31 23:36:29,093 - Key.backspace
+2026-05-31 23:36:29,327 - Key.backspace
+2026-05-31 23:36:29,562 - Key.backspace
+2026-05-31 23:36:30,064 - Key.backspace
+2026-05-31 23:36:30,236 - Key.backspace
+2026-05-31 23:36:30,564 - Key.backspace
+2026-05-31 23:36:34,499 - Key.ctrl_l
+2026-05-31 23:36:34,924 - '\x03'
+2026-05-31 23:36:35,114 - '\x03'
+2026-05-31 23:36:35,282 - '\x03'
+2026-05-31 23:36:43,420
+2026-05-31 23:36:43,431
+2026-05-31 23:36:43,441
+2026-05-31 23:36:43,447
+2026-05-31 23:36:43,550
+2026-05-31 23:36:43,560
+2026-05-31 23:36:43,584
+2026-05-31 23:36:43,620
+2026-05-31 23:36:43,636
+2026-05-31 23:36:43,703
+2026-05-31 23:36:43,731
+2026-05-31 23:36:43,740
+2026-05-31 23:36:43,740
+2026-05-31 23:36:43,803
+2026-05-31 23:36:43,824
+2026-05-31 23:36:43,834
+2026-05-31 23:36:43,935
+2026-05-31 23:36:43,935
+2026-05-31 23:36:44,027
+2026-05-31 23:36:44,040
+2026-05-31 23:36:44,040
+2026-05-31 23:36:44,138
+2026-05-31 23:36:44,148
+2026-05-31 23:36:44,154
+2026-05-31 23:36:44,161
+2026-05-31 23:36:44,161
+2026-05-31 23:36:44,240
+2026-05-31 23:36:44,243
+2026-05-31 23:36:44,301
+2026-05-31 23:36:44,336
+2026-05-31 23:36:44,336
+2026-05-31 23:36:44,348
+2026-05-31 23:36:44,348
+2026-05-31 23:36:44,349
+2026-05-31 23:36:44,390
+2026-05-31 23:36:44,396
+2026-05-31 23:36:44,501
+2026-05-31 23:36:44,502
+2026-05-31 23:36:44,502
+2026-05-31 23:36:44,503
+2026-05-31 23:36:44,606
+2026-05-31 23:36:44,619
+2026-05-31 23:36:51,164
+2026-05-31 23:36:51,165
+2026-05-31 23:36:51,192
+2026-05-31 23:36:51,204
+2026-05-31 23:36:51,337
+2026-05-31 23:36:51,387
+2026-05-31 23:36:51,402
+2026-05-31 23:36:51,412
+2026-05-31 23:36:51,462
+2026-05-31 23:37:02,159
+2026-05-31 23:37:02,400
+2026-05-31 23:37:02,596
+2026-05-31 23:37:02,905
+2026-05-31 23:37:03,057
+2026-05-31 23:37:03,687
+2026-05-31 23:37:03,824
+2026-05-31 23:37:03,948
+2026-05-31 23:37:04,051
+2026-05-31 23:37:04,244
+2026-05-31 23:37:04,419
+2026-05-31 23:37:04,905
+2026-05-31 23:37:05,092
+2026-05-31 23:37:05,433
+2026-05-31 23:37:05,624
+2026-05-31 23:37:05,804
+2026-05-31 23:37:05,933
+2026-05-31 23:37:06,097
+2026-05-31 23:37:06,200
+2026-05-31 23:37:25,778
+2026-05-31 23:37:26,292
+2026-05-31 23:37:26,323
+2026-05-31 23:37:26,354
+2026-05-31 23:37:26,384
+2026-05-31 23:37:26,414
+2026-05-31 23:37:26,445
+2026-05-31 23:37:26,490
+2026-05-31 23:37:26,498
+2026-05-31 23:37:28,964
+2026-05-31 23:37:29,464
+2026-05-31 23:37:29,500
+2026-05-31 23:37:31,694
+2026-05-31 23:37:31,979
+2026-05-31 23:37:32,276
+2026-05-31 23:37:32,493
+2026-05-31 23:37:32,657
+2026-05-31 23:37:33,209
+2026-05-31 23:37:33,369
+2026-05-31 23:37:33,495
+2026-05-31 23:37:33,725
+2026-05-31 23:37:33,861
+2026-05-31 23:37:33,959
+2026-05-31 23:37:34,029
+2026-05-31 23:37:34,195
+2026-05-31 23:37:34,277
+2026-05-31 23:37:34,437
+2026-05-31 23:37:34,872
+2026-05-31 23:37:35,156
+2026-05-31 23:37:35,277
+2026-05-31 23:37:35,431
+2026-05-31 23:37:35,537
+2026-05-31 23:37:35,705
+2026-05-31 23:37:35,928
+2026-05-31 23:37:36,075
+2026-05-31 23:37:36,244
+2026-05-31 23:37:36,306
+2026-05-31 23:37:36,654
+2026-05-31 23:37:36,975
+2026-05-31 23:37:37,143
+2026-05-31 23:37:37,374
+2026-05-31 23:37:37,432
+2026-05-31 23:37:37,610
+2026-05-31 23:37:37,691
+2026-05-31 23:37:37,870
+2026-05-31 23:37:37,944
+2026-05-31 23:37:38,152
+2026-05-31 23:37:38,502
+2026-05-31 23:37:38,705
+2026-05-31 23:37:38,891
+2026-05-31 23:37:38,905
+2026-05-31 23:37:39,027
+2026-05-31 23:37:39,488
+2026-05-31 23:37:39,629
+2026-05-31 23:37:39,754
+2026-05-31 23:37:39,910
+2026-05-31 23:37:40,095
+2026-05-31 23:37:40,289
+2026-05-31 23:37:40,414
+2026-05-31 23:37:44,839
+2026-05-31 23:37:44,999
+2026-05-31 23:37:45,164
+2026-05-31 23:37:45,689
+2026-05-31 23:37:45,829
+2026-05-31 23:37:46,036
+2026-05-31 23:37:46,525
+2026-05-31 23:37:46,701
+2026-05-31 23:37:46,811
+2026-05-31 23:37:47,023
+2026-05-31 23:37:47,504
+2026-05-31 23:37:47,645
+2026-05-31 23:37:47,855
+2026-05-31 23:37:47,974
+2026-05-31 23:37:48,164
+2026-05-31 23:37:48,248
+2026-05-31 23:37:51,772
+2026-05-31 23:37:51,896
+2026-05-31 23:37:52,190
+2026-05-31 23:37:52,323
+2026-05-31 23:37:52,972
+2026-05-31 23:38:06,297
+2026-05-31 23:38:06,575
+2026-05-31 23:38:06,950
+2026-05-31 23:38:07,253
+2026-05-31 23:38:07,499
+2026-05-31 23:38:07,799
+2026-05-31 23:38:11,142
+'j'
+'b'
+'a'
+'d'
+'f'
+'i'
+'h'
+'a'
+'e'
+'s'
+'b'
+'f'
+'h'
+'j'
+'k'
+'b'
+'f'
+'h'
+'j'
+'k'
+'e'
+'b'
+'a'
+'s'
+'h'
+'j'
+'f'
+'k'
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+'\x1a'
+Key.ctrl_l
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.shift
+Key.shift
+Key.shift
+'('
+Key.right
+Key.shift
+')'
+Key.ctrl_l
+Key.right
+Key.right
+Key.right
+Key.right
+Key.right
+Key.right
+Key.shift
+')'
+Key.left
+Key.shift
+'('
+Key.ctrl_l
+Key.right
+Key.right
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.backspace
+Key.backspace
+Key.shift
+Key.left
+Key.shift
+Key.shift
+Key.shift
+Key.shift
+Key.shift
+'('
+Key.ctrl_l
+Key.right
+Key.right
+Key.shift
+Key.shift
+Key.shift
+Key.shift
+Key.shift
+Key.shift
+Key.shift
+Key.shift
+Key.shift
+'('
+')'
+Key.backspace
+Key.backspace
+Key.right
+Key.ctrl_l
+Key.right
+Key.right
+Key.left
+Key.left
+Key.shift
+Key.shift
+Key.shift
+'('
+')'
+Key.backspace
+'¿'
+Key.backspace
+Key.backspace
+')'
+Key.backspace
+'('
+')'
+'='
+Key.backspace
+Key.backspace
+Key.backspace
+Key.ctrl_l
+Key.right
+Key.right
+Key.right
+Key.right
+Key.right
+Key.right
+Key.right
+Key.right
+Key.right
+Key.right
+Key.right
+Key.right
+Key.left
+Key.ctrl_l
+Key.right
+Key.ctrl_l
+'\x01'
+'\x03'
+'\x03'
+Key.ctrl_l
+Key.ctrl_l
+'\x16'
+Key.enter
+Key.ctrl_l
+Key.backspace
+Key.backspace
+Key.backspace
+'m'
+'a'
+'r'
+'c'
+'a'
+Key.space
+'q'
+'u'
+'e'
+Key.space
+'v'
+'i'
+'e'
+'n'
+'e'
+Key.space
+'u'
+'n'
+'a'
+Key.space
+'v'
+'a'
+'r'
+'i'
+'a'
+'b'
+'l'
+'e'
+Key.space
+Key.ctrl_l
+Key.backspace
+Key.backspace
+Key.backspace
+'q'
+'u'
+'e'
+Key.space
+'l'
+'o'
+Key.space
+'c'
+'o'
+'n'
+'v'
+'i'
+'e'
+'r'
+'t'
+'q'
+Key.space
+'a'
+Key.backspace
+Key.backspace
+Key.backspace
+'a'
+Key.space
+'s'
+Key.backspace
+'a'
+Key.space
+'s'
+'t'
+'r'
+'i'
+'n'
+'g'
+Key.ctrl_l
+Key.backspace
+Key.shift
+':'
+'_'
+Key.backspace
+Key.space
+Key.right
+Key.right
+Key.space
+'o'
+'t'
+'r'
+'o'
+Key.space
+Key.backspace
+Key.space
+'e'
+'l'
+Key.space
+Key.backspace
+Key.ctrl_l
+Key.ctrl_l
+'\x01'
+'\x03'
+'\x03'
+Key.ctrl_l
+'\x16'
+Key.enter
+Key.ctrl_l
+Key.cmd
+'\x13'
+'\x13'
+'\x13'
