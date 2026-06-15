@@ -6,5 +6,3 @@ lista.append("Kiwi")
 print(lista)
 
 
-
-    

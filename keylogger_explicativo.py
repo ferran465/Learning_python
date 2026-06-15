@@ -10,7 +10,7 @@ import logging
 # filename → fichero donde se guardan las teclas
 # level → registra todo desde DEBUG hacia arriba
 # format → cada línea muestra: fecha/hora - tecla pulsada
-logging.basicConfig(filename="log.txt")
+logging.basicConfig(filename="log.txt", level=logging.DEBUG, format="%(asctime)s - %(message)s")
 
 # Función que se ejecuta cada vez que se pulsa una tecla
 # key → la tecla pulsada que recibe automáticamente Listener
