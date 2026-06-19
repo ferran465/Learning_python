@@ -8,8 +8,9 @@ def numeros():
     if x >= y: 
         print(sys.getsizeof(x))
     else:
-        print(sys.getsizeof(y))
+        print(sys.getsizeof(y)) 
 
-numeros()
+      
+numeros(print(y[:840]))
 
 
