@@ -1,14 +1,15 @@
-Error_nº1 = int(input("Introduce un valor igual o más alto que 1000: "))
-
 def Errores():
     try: 
+        Error_nº1 = int(input("Introduce un valor igual o más alto que 1000: "))
         if Error_nº1 == 1000: 
             print("Bien")
             return True 
-        
-    except Error_nº1 as error:
-        if Error_nº1 > 1000: 
+        else: 
+            print("Error")
             return False
 
+    except: 
+        print("debes introducir un numero")
+        return False
+    
 print(Errores())
-        
