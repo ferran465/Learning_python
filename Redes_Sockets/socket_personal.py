@@ -15,8 +15,11 @@ class crear_socket:
         s.connect((self.ip, self.port))
 
 if __name__ == "__main__": 
-    propio_socket = crear_socket(80, "192.168.1.34")
+    propio_socket = crear_socket(135, "192.168.1.34")
     propio_socket.connect()
+    print("hello world")
+else: 
+    print(None)
 
 
 
