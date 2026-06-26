@@ -1,4 +1,4 @@
-class calculadora: 
+class math: 
     def __init__(self, sumar, restar, multiplicar, dividir, operaciones):
         self.sumar = sumar
         self.restar = restar
@@ -17,7 +17,8 @@ class calculadora:
         self.dividir = num1 / num2
 
 if __name__ == "__main__": 
-    c = calculadora(0, 0, 0, 0, None)
+    c = math(0, 0, 0, 0, None)
     print("Math")
 else: 
     print (None)
+

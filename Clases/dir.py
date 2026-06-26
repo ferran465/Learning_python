@@ -1,11 +1,4 @@
-import calculadora
-print(dir(calculadora))
+import Ejercicios_Basicos.calculadora as calculadora
 
+print(dir(calculadora)) # dir lista los nombres internos del módulo
 
-"""class operaciones:
-    def __init__(self, sumar, restar, dividir): 
-        self.sumar = sumar
-        if sumar == calculadora.calculadora ==
-  
-
-# falta acabar este archivo"""
