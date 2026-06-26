@@ -1,3 +1,7 @@
-import calculadora as math  
+from calculadora import math
 
-print(dir(math))
+
+def calculadora(): 
+    c = math(0, 0, 0, 0, None)
+    c.calculadora()
+
