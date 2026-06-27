@@ -14,7 +14,6 @@ def calculadora():
 
     resultado4 = num1 / num2
     
-
     if operación == "+": 
         print(resultado1)
     elif operación == "-":
@@ -23,7 +22,5 @@ def calculadora():
         print(resultado3)
     elif operación == "/": 
         print(resultado4)
-
-
 if __name__ == "__main__":
     calculadora()

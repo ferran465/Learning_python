@@ -6,5 +6,3 @@ def mi_calculadora():
     c.calculadora()
 
 mi_calculadora()
-
-

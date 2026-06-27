@@ -1,4 +1,4 @@
-operación = str(input("Introduce una operación +, -, *, /: ")) # Lo hago yo, y Python solo compara el string y luego ejecuta el código que YO le he dicho. Compara "+" == + 
+operación = str(input("Introduce una operación +, -, *, /: ")) # Lo hago yo, y Python solo compara el string y luego ejecuta el código que YO le he dicho. Compara "+" == +.
 num1 = int(input("introduce un número: "))
 num2 = int(input("Introduce el segundo número: "))
 
@@ -27,4 +27,4 @@ def calculadora():
 calculadora()
 
 
-# Mejor anidar con elif
+# Mejor anidar con elif porque la pirámide que hace es más facil de romper y es más dificil de mantener.
