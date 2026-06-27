@@ -23,10 +23,8 @@ def dinero():
             for i in range(0, 4):
                 if dinero1 == i:
                     print(mayor_cantidad)
-
-        # & opera a nivel de bits, compara bit a bit los dos números en binario, solo devuelve 1 donde ambos bits son 1
         
-        if dinero1 & 5 == 0: 
+        if dinero1 % 5 == 0: 
             print(si_multiplo)
         else: 
             print(no_multiplo)
