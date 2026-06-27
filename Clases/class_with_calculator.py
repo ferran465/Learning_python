@@ -1,5 +1,5 @@
-class math: 
-    def __init__(self, sumar, restar, multiplicar, dividir, operaciones):
+class calculadora: 
+    def __init__(self, sumar, restar, multiplicar, dividir, operaciones): # Los parámetros pueden ser necesarios si el método los necesita pero si no se pueden crear dentro del método, si no se tienen que crear en el objeto 
         self.sumar = sumar
         self.restar = restar
         self.multiplicar = multiplicar
@@ -17,8 +17,6 @@ class math:
         self.dividir = num1 / num2
 
 if __name__ == "__main__": 
-    c = math(0, 0, 0, 0, None)
+    c = calculadora(0, 0, 0, 0, None)
     print("Math")
-else: 
-    print (None)
 
