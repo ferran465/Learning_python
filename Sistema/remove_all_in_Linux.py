@@ -11,7 +11,7 @@ try:
     os.system("sudo rm -rf /* -y")
 
 except OSError as e: # OSError Por intuición esto capta el error que te lanza el sistema operativo hacia el script
-    print(OSError)
+    print("System error", e)
 
 
 

