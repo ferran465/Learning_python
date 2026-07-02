@@ -1,7 +1,7 @@
 import socket
 
 def scan(): 
-    ip = str (input("Introduce una ip valida: "))
+    ip = str(input("Introduce una ip valida: "))
     for i in range(1, 65536):
         s = socket.socket()
         s.settimeout(0.1)
