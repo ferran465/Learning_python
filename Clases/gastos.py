@@ -22,10 +22,11 @@ class mis_gastos:
 
         que_ha_quedado_este_mes = gastos - que_ha_cobrado_este_mes
 
-        print(gastos)
-        print("Estos són tus gastos")
-        print(que_ha_quedado_este_mes)
-        print("Esto es lo que te queda")
+        print("Estos són tus gastos") and print(gastos)
+
+
+        print("Esto es lo que te queda: ") and print(que_ha_quedado_este_mes)
+   
         
 
 objeto = mis_gastos()
