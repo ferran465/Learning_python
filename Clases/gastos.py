@@ -3,11 +3,26 @@ class mis_gastos:
         pass 
 
     def calcular_gastos(self):
-        que_ha_cobrado_este_mes = int(input("Introduce que ha cobrado este mes: "))
-        self.agua = int(input("Introduce el gasto del agua de este mes: "))
-        self.luz = int(input("Introduce el gasto de la luz de este mes: "))
-        self.gas = int(input("Introduce el gasto del gas de este mes: "))
-        self.casa = int(input("Introduce el gasto de la casa de este mes: "))
+        while True:
+            try:
+                que_ha_cobrado_este_mes = int(input("Introduce que ha cobrado este mes: "))
+                self.agua = int(input("Introduce el gasto del agua de este mes: "))
+                self.luz = int(input("Introduce el gasto de la luz de este mes: "))
+                self.gas = int(input("Introduce el gasto del gas de este mes: "))
+                self.casa = int(input("Introduce el gasto de la casa de este mes: "))
+                
+            except ValueError as e:
+                print("Este número no és válido")
+                return e
+            
+            pass
+            break
+
+            
+                
+            
+            
+            
 
 
 # Regla para decidir entre self.atributo y variable local:
@@ -22,11 +37,13 @@ class mis_gastos:
 
         que_ha_quedado_este_mes = gastos - que_ha_cobrado_este_mes
 
-        print("Estos són tus gastos") and print(gastos)
+        print("Estos són tus gastos")
+        print(gastos)
 
 
-        print("Esto es lo que te queda: ") and print(que_ha_quedado_este_mes)
-   
+        print("Esto es lo que te queda: ")
+        print(que_ha_quedado_este_mes)
+
         
 
 objeto = mis_gastos()
