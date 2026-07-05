@@ -25,12 +25,7 @@ class mis_gastos:
                     descripción = input("Introduce la descripción del gasto: ")
                     importe = input("Introduce el importe: ")
                     self.gasto_extra.append({"descripción": descripción, "importe": importe})
-
-
-                
-                
-
-
+                    
             except ValueError as e:
                 print("Este número no és válido")
                 return e
@@ -60,7 +55,3 @@ class mis_gastos:
 
 objeto = mis_gastos()
 objeto.calcular_gastos()
-
-
-        
-    
