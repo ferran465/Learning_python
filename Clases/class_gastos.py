@@ -35,7 +35,7 @@ class mis_gastos:
 
 
             
-        gastos = (self.agua + self.luz + self.gas + self.casa, self.gasto_extra)  
+        gastos = (self.agua + self.luz + self.gas + self.casa)  
         # Python no obliga a usar las variables o atributos que creas.
         # Puedes calcular self.gasto_extra, guardarlo, y nunca usarlo después:
         # el programa se ejecuta igual, sin error ni aviso.
@@ -43,6 +43,8 @@ class mis_gastos:
         # no comprueba si el resultado final es el que realmente querías.
 
         que_ha_quedado_este_mes = gastos - que_ha_cobrado_este_mes
+
+        que_ha_quedado_este_mes.append(self.gasto_extra) 
 
         print("Estos són tus gastos")
         print(gastos)
