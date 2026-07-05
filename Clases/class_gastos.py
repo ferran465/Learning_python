@@ -35,6 +35,8 @@ class mis_gastos:
 
 
         total_extra = sum(i["importe"] for i in self.gasto_extra)
+        # hacemos una variable para sumar con i solo el importe al recorrer la lista de i;
+        # porque solo queremos el número ya que si no, no puedes operar un diccionario con un entero o mejor dicho no se pueden operar diferentes tipados al recorrer la lista de i
         gastos = (self.agua + self.luz + self.gas + self.casa + total_extra)
         # Python no obliga a usar las variables o atributos que creas.
         # Puedes calcular self.gasto_extra, guardarlo, y nunca usarlo después:
@@ -48,6 +50,7 @@ class mis_gastos:
 
         print("Estos són tus gastos")
         print(gastos)
+        
 
 
         print("Esto es lo que te queda: ")
@@ -55,5 +58,8 @@ class mis_gastos:
 
         
 
-objeto = mis_gastos()
-objeto.calcular_gastos()
+
+if __name__ == "__main__":
+    objeto = mis_gastos()
+    objeto.calcular_gastos()
+
