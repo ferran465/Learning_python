@@ -21,9 +21,9 @@ class mis_gastos:
 
                 extra = int(input("introduce un número de cuantos gástos quieres añadir: "))
                 self.gasto_extra = []
-                for g in range(extra):
-                    descripción = input("Introduce la descripción del gasto: ")
-                    importe = input("Introduce el importe: ")
+                for i in range(extra):
+                    descripción = str(input("Introduce la descripción del gasto: "))
+                    importe = int(input("Introduce el importe: "))
                     self.gasto_extra.append({"descripción": descripción, "importe": importe})
                     
             except ValueError as e:
@@ -34,8 +34,8 @@ class mis_gastos:
             break
 
 
-            
-        gastos = (self.agua + self.luz + self.gas + self.casa)  
+        total_extra = sum(i["importe"] for i in self.gasto_extra)
+        gastos = (self.agua + self.luz + self.gas + self.casa + total_extra)
         # Python no obliga a usar las variables o atributos que creas.
         # Puedes calcular self.gasto_extra, guardarlo, y nunca usarlo después:
         # el programa se ejecuta igual, sin error ni aviso.
@@ -44,7 +44,7 @@ class mis_gastos:
 
         que_ha_quedado_este_mes = gastos - que_ha_cobrado_este_mes
 
-        que_ha_quedado_este_mes.append(self.gasto_extra) 
+        
 
         print("Estos són tus gastos")
         print(gastos)
