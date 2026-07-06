@@ -12,7 +12,7 @@ def ports_with_dict():
         445: "https", 
         3306: "mysql", 
     }
-    ip = str(input("Itroduce una ip: "))
+    ip = str(input("Introduce una ip: "))
     for p in puertos: 
         l = socket.socket()
         l.settimeout(0.1)
