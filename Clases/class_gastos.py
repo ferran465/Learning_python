@@ -51,7 +51,7 @@ class mis_gastos:
         print("Estos són tus gastos")
         print(gastos)
         
-
+    
 
         print("Esto es lo que te queda: ")
         print(que_ha_quedado_este_mes)
