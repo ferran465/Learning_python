@@ -24,16 +24,14 @@ class borrar_archivos:
     
 if __name__ == "__main__":
     delete_files = borrar_archivos()
-    if delete_files.system_32():
-        pass
-    else:
+    if not delete_files.system_32(): # también se puede hacer con (is None)
         delete_files.borrar_linux()
 
     
 # Que conste que aunque todos lo scripts los haya echo yo en genearl este script destaca porque destaca que pensaba en lo que queria hacer realmente solo basandome en mi capacidad con lo que he aprendido...
 
                 
-        
+
         
 
 
