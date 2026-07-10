@@ -3,7 +3,7 @@ class sumar_10:
         self.sumar = sumar 
         print("suma diez")
 
-    def __str__(self):
+    def __str__(self): # __str__ solo puede tener el parámetro self porque self se refiere al objeto
         return f"Esto suma diez {self.sumar}"
         
 if __name__ == "__main__":

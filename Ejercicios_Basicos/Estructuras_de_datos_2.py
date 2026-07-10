@@ -9,8 +9,7 @@ def numeros():
         print(sys.getsizeof(x))
     else:
         print(sys.getsizeof(y)) 
-
       
-numeros(print(y[:840]))
+numeros()
 
 

@@ -1,4 +1,5 @@
-lista = [1, 2, 3] # se puede combinar el valor de la lista poniendo menos parámetros en la lista para que el valor de la lista de False.
+lista = [1, 2, 3, 4, 5] # También se puede combinar con lista = [sin la lista completa] para que el valor dé false
+
 
 def listas(): 
     if lista < [1, 2, 3, 4, 5]: 
@@ -8,7 +9,7 @@ def listas():
             return True
         
 print(listas())
-
-
+                  
+        
 
 

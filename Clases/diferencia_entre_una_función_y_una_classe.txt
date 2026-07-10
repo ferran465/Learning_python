@@ -1,0 +1,37 @@
+🎮 ✔️ La clase son las reglas del jugador
+La clase define:
+
+cuánta vida tiene
+
+cuánta fuerza tiene
+
+si puede morir o no
+
+si revive
+
+si es inmortal
+
+si siempre muere
+
+cómo se mueve
+
+cómo ataca
+
+cómo recibe daño
+
+La clase = las normas, el molde, la definición del “qué es”.
+
+⚙️ ✔️ Los def dentro de la clase son cómo hace esas cosas
+Los métodos (def) definen:
+
+cómo muere
+
+cómo ataca
+
+cómo se cura
+
+cómo recibe daño
+
+cómo se mueve
+
+Los def = las acciones, el “cómo lo hace”.

@@ -1,3 +1,4 @@
+
 def write_archivo():
     with open("archivo.txt", "w") as archivo:
         archivo.write("Hello, World")
@@ -8,4 +9,4 @@ def write_archivo():
         return contenido
        
 
-write_archivo()   
+write_archivo()
