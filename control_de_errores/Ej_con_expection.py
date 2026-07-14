@@ -10,4 +10,9 @@ def leer_config(ruta):
     except FileNotFoundError:
         print("Este archivo no existe")
 
-leer_config("config.txt")
+leer_config(ruta="config.txt")
+
+# leer_config(ruta="config.txt")
+
+# Sirve para identificar claramente qué valor corresponde a cada parámetro, algo más útil cuantos más parámetros tenga la función, porque a simple vista se vuelve difícil recordar el orden correcto.
+
