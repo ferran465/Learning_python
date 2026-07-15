@@ -1,15 +1,16 @@
 def leer_config(ruta):
     try:
-        with open(ruta, "r") as archivo:
-            contenido = archivo.read()
-            numero = int(contenido)
-            return numero
+        archivo = open(ruta)
+        contenido = archivo.read()
+        numero = int(contenido)
+        archivo.close()
+        return numero
     except ValueError:
         print("no és un número válido")
     except FileNotFoundError:
         print("Este archivo no existe")
 
-leer_config(ruta="archivo")
+leer_config(ruta="config.txt")
 
 # leer_config(ruta="config.txt")
 
