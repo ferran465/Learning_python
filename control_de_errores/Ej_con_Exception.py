@@ -2,7 +2,7 @@ def leer_numero_de_archivo(ruta):
     try:    
         with open(ruta, "r") as f:
             contenido = f.read()
-        numero = str(contenido)
+        numero = int(contenido)
         return numero * 2
 
     except FileNotFoundError as l:
@@ -22,4 +22,4 @@ print(leer_numero_de_archivo(ruta = "contenido"))
     
 
 
-# Arreglado seria cambiando el int por str 
+    # El programa intenta convertir el texto a número. Si lo consigue, ahí tienes el número. Si no lo consigue, en ese mismo intento salta el ValueError.
