@@ -22,10 +22,3 @@ else:
     print(None)
 
 
-
-            
-
-
-
-
-        
