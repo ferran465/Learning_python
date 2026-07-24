@@ -62,4 +62,3 @@ class mis_gastos:
 if __name__ == "__main__":
     objeto = mis_gastos()
     objeto.calcular_gastos()
-
