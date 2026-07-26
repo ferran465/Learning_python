@@ -29,7 +29,7 @@ class shutdown_os:
         try:
             self.MacOS = os.system("sudo shutdown -h now")
             if self.MacOS == 0:
-                True
+                return True
             else: 
                 return False
         except OSError as m:
