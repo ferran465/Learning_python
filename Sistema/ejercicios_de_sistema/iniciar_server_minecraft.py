@@ -6,7 +6,7 @@ def iniciar_server():
         # /home/ferranitoxx/Escritorio/Server-Minecraft/Paper-1.20.1
         os.chdir("/home/ferranitoxx/Escritorio/Server-Minecraft/Paper-1.20.1")
 
-        comand = 'java -Xms2G -Xmx4G -jar /home/ferranitoxx/Escritorio/Server-Minecraft/Paper-1.20.1/paper-1.20.1.jar --nogui' 
+        comand = 'java -Xms2G -Xmx4G -jar /home/ferranitoxx/Escritorio/Server-Minecraft/Paper-1.20.1/paper.jar --nogui' 
         X_comand = subprocess.run(comand, shell = True) # shell = True hace que pueda ejecutar el comando en un interperete de comandos como bash, bin, zsh etc...
 
         if X_comand.returncode == 0:
