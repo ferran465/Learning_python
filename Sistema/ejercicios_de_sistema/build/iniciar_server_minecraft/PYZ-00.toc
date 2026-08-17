@@ -1,4 +1,4 @@
-('C:\\Users\\ferra\\proyectos_personales\\Learning_python\\Sistema\\ejercicios_de_sistema\\build\\Apagar_facilmente_Windows\\PYZ-00.pyz',
+('C:\\Users\\ferra\\proyectos_personales\\Learning_python\\Sistema\\ejercicios_de_sistema\\build\\iniciar_server_minecraft\\PYZ-00.pyz',
  [('__future__',
    'C:\\Users\\ferra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\__future__.py',
    'PYMODULE'),
