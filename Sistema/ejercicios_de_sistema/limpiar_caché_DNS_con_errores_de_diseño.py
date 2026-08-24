@@ -1,5 +1,5 @@
 import subprocess
-import os
+
 class limpiar_caché_DNS:
     def __init__(self, limpiar_caché):
         self.limpiar_caché = limpiar_caché
