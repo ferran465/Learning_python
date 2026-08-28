@@ -7,7 +7,7 @@ def iniciar_server():
         # /home/ferranitoxx/Escritorio/Server-Minecraft/Paper-1.20.1
         os.chdir("/home/ferranitoxx/Escritorio/Server-Minecraft/Paper-1.20.1")
 
-        comand = 'tmux new-session -d -s minecraft "java -Xms2G -Xmx4G -jar /home/ferranitoxx/Escritorio/Server-Minecraft/Paper-1.20.1/paper.jar nogui"'
+        comand = 'tmux new-session -d -s minecraft "java -Xms2G -Xmx4G -jar /home/ferranitoxx/Escritorio/Server-Minecraft/Paper-1.20.1/paper.jar nogui"' # necesitamos una terminal para tener el control de todo ya que al ejecutarlo como un subprocesso no podemos ver la interfaz gráfica de la terminal.
         X_comand = subprocess.run(comand, shell = True) # shell = True hace que pueda ejecutar el comando en un interperete de comandos como bash, bin, zsh etc...
 
         if X_comand.returncode == 0:
