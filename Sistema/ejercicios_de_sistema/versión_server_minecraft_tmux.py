@@ -10,7 +10,7 @@ def iniciar_server():
         # /home/ferranitoxx/Escritorio/Server-Minecraft/Paper-1.20.1
         os.chdir("/home/ferranitoxx/Escritorio/Server-Minecraft/Paper-1.20.1")
 
-        comand = 'tmux new-session -d -s minecraft "java -Xms2G -Xmx4G -jar /home/ferranitoxx/Escritorio/Server-Minecraft/Paper-1.20.1/paper.jar nogui"' # necesitamos una terminal para tener el control de todo ya que al ejecutarlo como un subprocesso no podemos ver la interfaz gráfica de la terminal.
+        comand = 'tmux kill-session -t minecraft; tmux new-session -d -s minecraft "java -Xms2G -Xmx4G -jar /home/ferranitoxx/Escritorio/Server-Minecraft/Paper-1.20.1/paper.jar nogui"' # necesitamos una terminal para tener el control de todo ya que al ejecutarlo como un subprocesso no podemos ver la interfaz gráfica de la terminal.
         X_comand = subprocess.run(comand, shell = True) # shell = True hace que pueda ejecutar el comando en un interperete de comandos como bash, bin, zsh etc...
 
         if X_comand.returncode == 0:
@@ -25,13 +25,26 @@ def iniciar_server():
 
 
 
+async def reiniciar_server():
+    while True: # es mejor no poner returns dentro de el bucle ya que los returns acaban con el programa o se salen del programa
+        result = iniciar_server()
 
-result = sys.exit(iniciar_server()) # con sys.exit hace que el programa termine y que el código de salida que da iniciar_server() que antes solamente daba True ahora lo devuelva con un número
+        if result == 0:
+            await asyncio.sleep(72000)
+            time.sleep(60)
+        elif result != 0:
+            print("no se ha podido reiniciar correctamente")
+            time.sleep(60)
+
+
+            
+
+
+asyncio.run(reiniciar_server())
+                      
+
+sys.exit(iniciar_server()) # con sys.exit hace que el programa termine y que el código de salida que da iniciar_server() que antes solamente daba True ahora lo devuelva con un número
 
  # cuando minecraft cierra el proceso simplemente devuleve el resultado a systemd que es el que se encarga en "LINUX" de poder controlar los procesoso y los servicios
-
-if result == 0:
-    await asyncio.sleep(72000)
-elif not time.sleep(5):
-                                                                          # asyncio no toca el programa solo es como una sala de espera y time.sleep lo para entero hasta el tiempo que tu digas para que cuando acable lo vuelva a ejecutar
+                                                    # asyncio no toca el programa solo es como una sala de espera y time.sleep lo para entero hasta el tiempo que tu digas para que cuando acable lo vuelva a ejecutar
     

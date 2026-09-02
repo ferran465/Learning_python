@@ -6,7 +6,7 @@ class limpiar_caché_DNS:
 
     def limpiar(self):
         try:
-            self.limpiar_caché = subprocess.run(["ipconfig", "/flushdns"], capture_output=True, text=True) # <--- se sobrescribe
+            self.limpiar_caché = subprocess.run(["ipconfig", "/flushdns"], capture_output=True, text=True) # obtenemos la salida stdout y stderr con capture_output=True y text=True lo convierte a string en lugar de que sean solo a bytes
             if self.limpiar_caché.returncode == 0:
                 print("se ha limpiado la caché correctamente")
                 
