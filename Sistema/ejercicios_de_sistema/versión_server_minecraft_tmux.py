@@ -37,9 +37,6 @@ async def reiniciar_server():
             time.sleep(60)
 
 
-            
-
-
 asyncio.run(reiniciar_server())
                       
 
