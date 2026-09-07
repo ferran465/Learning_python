@@ -37,7 +37,7 @@ async def reiniciar_server(): # con async lo que hace es que la parte del progra
             time.sleep(60)
 
 
-asyncio.run(reiniciar_server())
+asyncio.run(reiniciar_server()) # asyncio.run sirve para ejecutar la función asincronico definida
                       
 
 sys.exit(iniciar_server()) # con sys.exit hace que el programa termine y que el código de salida que da iniciar_server() que antes solamente daba True ahora lo devuelva con un número
