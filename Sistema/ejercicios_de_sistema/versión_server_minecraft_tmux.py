@@ -25,7 +25,7 @@ def iniciar_server():
 
 
 
-async def reiniciar_server():
+async def reiniciar_server(): # con async lo que hace es que la parte del programa o bloque del programa que hayas definido junto async se congele durante un tiempo para que después pueda ejecuatrse cuando le toque. 
     while True: # es mejor no poner returns dentro de el bucle ya que los returns acaban con el programa o se salen del programa
         result = iniciar_server()
 
