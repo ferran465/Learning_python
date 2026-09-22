@@ -24,18 +24,31 @@ def iniciar_server():
         return 1 # damos una salida de error por si falla ya que 0 seria exito
 
 
+async def reiniciar_server(): # con async lo que hace es que la parte del programa o bloque del programa que hayas definido junto async se congele durante un tiempo para que después pueda ejecutarse cuando le toque. 
+    try:
+        while True: # es mejor no poner returns dentro de el bucle ya que los returns acaban con el programa o se salen del programa
+            result = iniciar_server()
 
-async def reiniciar_server(): # con async lo que hace es que la parte del programa o bloque del programa que hayas definido junto async se congele durante un tiempo para que después pueda ejecuatrse cuando le toque. 
-    while True: # es mejor no poner returns dentro de el bucle ya que los returns acaban con el programa o se salen del programa
-        result = iniciar_server()
+            if result == 0:
+                await asyncio.sleep(72000)
+                time.sleep(60)
+            elif result != 0:
+                print("no se ha podido reiniciar correctamente")
+                time.sleep(60)
+    except OSError as error_inesperado:
+        print(f"ha habido un error inesperado{error_inesperado}")
+        if error_inesperado == True:
+            pass
+        if not error_inesperado == True:
+            os.chdir("/home/ferranitoxx/Escritorio/Server-Minecraft/Información_del_server/Logs_de_reinicio")
+            with open("log", "a") as errn:
+                errn.write(f"{error_inesperado}")
 
-        if result == 0:
-            await asyncio.sleep(72000)
-            time.sleep(60)
-        elif result != 0:
-            print("no se ha podido reiniciar correctamente")
-            time.sleep(60)
+            with open("log", "r") as errn:
+                read_log = errn.read()
 
+        else:
+            pass
 
 asyncio.run(reiniciar_server()) # asyncio.run sirve para ejecutar la función asincronico definida
                       
@@ -44,4 +57,5 @@ sys.exit(iniciar_server()) # con sys.exit hace que el programa termine y que el 
 
  # cuando minecraft cierra el proceso simplemente devuleve el resultado a systemd que es el que se encarga en "LINUX" de poder controlar los procesoso y los servicios
                                                     # asyncio no toca el programa solo es como una sala de espera y time.sleep lo para entero hasta el tiempo que tu digas para que cuando acable lo vuelva a ejecutar
-    
+
+
