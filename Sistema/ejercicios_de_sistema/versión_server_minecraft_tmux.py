@@ -3,7 +3,7 @@ import subprocess
 import sys
 import time
 import asyncio
-
+import keyboard
 
 def iniciar_server():
     try:
@@ -50,9 +50,27 @@ async def reiniciar_server(): # con async lo que hace es que la parte del progra
         else:
             pass
 
-asyncio.run(reiniciar_server()) # asyncio.run sirve para ejecutar la función asincronico definida
-                      
+def apagar_maquina():
+    keyboard.add_hotkey("alt + shift + *", apagar_maquina())
+    apagar = str(input("quieres apagar el servidor ??: "))
+    if apagar == "y":
+        subprocess.run("sudo shutdown now", shell=True)
+        return True
+    else:
+        apagar == "n"
+        return False
 
+def reiniciar_maquina():
+    reiniciar = str(input("quieres reiniciar el servidor ??: "))
+    if reiniciar == "y":
+        return True
+    else:
+        reiniciar == "n"
+        return False
+    
+asyncio.run(reiniciar_server()) # asyncio.run sirve para ejecutar la función asincronico definida
+apagar_maquina()
+reiniciar_maquina
 sys.exit(iniciar_server()) # con sys.exit hace que el programa termine y que el código de salida que da iniciar_server() que antes solamente daba True ahora lo devuelva con un número
 
  # cuando minecraft cierra el proceso simplemente devuleve el resultado a systemd que es el que se encarga en "LINUX" de poder controlar los procesoso y los servicios
