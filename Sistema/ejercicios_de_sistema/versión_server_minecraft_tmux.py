@@ -45,7 +45,7 @@ async def reiniciar_server(): # con async lo que hace es que la parte del progra
                 errn.write(f"{error_inesperado}")
 
             with open("log", "r") as errn:
-                read_log = errn.read()
+                errn.read()
 
         else:
             pass
