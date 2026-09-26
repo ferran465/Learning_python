@@ -50,27 +50,35 @@ async def reiniciar_server(): # con async lo que hace es que la parte del progra
         else:
             pass
 
-def apagar_maquina():
-    keyboard.add_hotkey("alt + shift + *", apagar_maquina())
-    apagar = str(input("quieres apagar el servidor ??: "))
-    if apagar == "y":
-        subprocess.run("sudo shutdown now", shell=True)
-        return True
-    else:
-        apagar == "n"
-        return False
+def apagar_maquina(): # otra cosa está función no se llama normal como haria con reiniciar_server() o iniciar_server() abajo del código hay una función que activa la funcíón que activa está misma función en cuanto presionas las teclas "alt + shift + *" 
+    try:
+        apagar = str(input("quieres apagar el servidor ??: "))
+        if apagar == "y":
+            subprocess.run("sudo shutdown now", shell=True)
+            return True
+        else:
+            apagar == "n"
+            return False
+    except KeyError as hotkey_start_errn:
+        print(f"no se ha podido encontrar la tecla{hotkey_start_errn}")
+
+keyboard.add_hotkey("alt + shift + *", apagar_maquina) # no puede ir dentrro del try porque basicamente si se pusiera dentro se retroalimentaria como si fuera un bucle llamando una y otra vez para que pulses el hotkey 
 
 def reiniciar_maquina():
-    reiniciar = str(input("quieres reiniciar el servidor ??: "))
-    if reiniciar == "y":
-        return True
-    else:
-        reiniciar == "n"
-        return False
-    
+    try:
+        reiniciar = str(input("quieres reiniciar el servidor ??: "))
+        if reiniciar == "y":
+            subprocess.run("sudo reboot -f", shell=True)
+            return True
+        else:
+            reiniciar == "n"
+            return False
+    except KeyError as hotkey_reboot_errn:
+        print(f"no se ha podido encontrar la tecla{hotkey_reboot_errn}")
+
+keyboard.add_hotkey("alt + shift + Ç", reiniciar_maquina)
+
 asyncio.run(reiniciar_server()) # asyncio.run sirve para ejecutar la función asincronico definida
-apagar_maquina()
-reiniciar_maquina
 sys.exit(iniciar_server()) # con sys.exit hace que el programa termine y que el código de salida que da iniciar_server() que antes solamente daba True ahora lo devuelva con un número
 
  # cuando minecraft cierra el proceso simplemente devuleve el resultado a systemd que es el que se encarga en "LINUX" de poder controlar los procesoso y los servicios
