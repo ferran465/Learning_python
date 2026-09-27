@@ -40,7 +40,7 @@ async def reiniciar_server(): # con async lo que hace es que la parte del progra
         if error_inesperado == True:
             pass
         if not error_inesperado == True:
-            os.chdir("/home/ferranitoxx/Escritorio/Server-Minecraft/Información_del_server/Logs_de_reinicio")
+            os.chdir("/home/ferranitoxx/Escritorio/Server-Minecraft/Información_del_server/Logs_de_reinicio_tmux")
             with open("log", "a") as errn:
                 errn.write(f"{error_inesperado}")
 
@@ -61,6 +61,12 @@ def apagar_maquina(): # otra cosa está función no se llama normal como haria c
             return False
     except KeyError as hotkey_start_errn:
         print(f"no se ha podido encontrar la tecla{hotkey_start_errn}")
+        os.chdir("/home/ferranitoxx/Escritorio/Server-Minecraft/Información_del_server/Logs_de_apagado")
+        with open("log_de_apagado", "a") as shutdowning_log:
+            shutdowning_log.write(f"{hotkey_start_errn}")
+
+        with open("log_de_apagado", "r") as shutdowning_log:
+            shutdowning_log.read()
 
 keyboard.add_hotkey("alt + shift + *", apagar_maquina) # no puede ir dentrro del try porque basicamente si se pusiera dentro se retroalimentaria como si fuera un bucle llamando una y otra vez para que pulses el hotkey 
 
@@ -75,6 +81,11 @@ def reiniciar_maquina():
             return False
     except KeyError as hotkey_reboot_errn:
         print(f"no se ha podido encontrar la tecla{hotkey_reboot_errn}")
+        with open("log_de_reinicio", "a") as reset_log:
+            reset_log.write(f"{hotkey_reboot_errn}")
+
+        with open("log_de_reinicio", "r") as reset_log:
+            reset_log.read()
 
 keyboard.add_hotkey("alt + shift + Ç", reiniciar_maquina)
 
@@ -83,5 +94,3 @@ sys.exit(iniciar_server()) # con sys.exit hace que el programa termine y que el 
 
  # cuando minecraft cierra el proceso simplemente devuleve el resultado a systemd que es el que se encarga en "LINUX" de poder controlar los procesoso y los servicios
                                                     # asyncio no toca el programa solo es como una sala de espera y time.sleep lo para entero hasta el tiempo que tu digas para que cuando acable lo vuelva a ejecutar
-
-
