@@ -81,6 +81,7 @@ def reiniciar_maquina():
             return False
     except KeyError as hotkey_reboot_errn:
         print(f"no se ha podido encontrar la tecla{hotkey_reboot_errn}")
+        os.chdir("/home/ferranitoxx/Escritorio/Server-Minecraft/Información_del_server/Logs_de_reinicio")
         with open("log_de_reinicio", "a") as reset_log:
             reset_log.write(f"{hotkey_reboot_errn}")
 
