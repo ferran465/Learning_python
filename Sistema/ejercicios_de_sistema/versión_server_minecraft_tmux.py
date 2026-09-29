@@ -52,13 +52,7 @@ async def reiniciar_server(): # con async lo que hace es que la parte del progra
 
 def apagar_maquina(): # otra cosa está función no se llama normal como haria con reiniciar_server() o iniciar_server() abajo del código hay una función que activa la funcíón que activa está misma función en cuanto presionas las teclas "alt + shift + *" 
     try:
-        apagar = str(input("quieres apagar el servidor ??: "))
-        if apagar == "y":
-            subprocess.run("sudo shutdown now", shell=True)
-            return True
-        else:
-            apagar == "n"
-            return False
+        subprocess.run("sudo shutdown now", shell=True)
     except KeyError as hotkey_start_errn:
         print(f"no se ha podido encontrar la tecla{hotkey_start_errn}")
         os.chdir("/home/ferranitoxx/Escritorio/Server-Minecraft/Información_del_server/Logs_de_apagado")
@@ -72,13 +66,7 @@ keyboard.add_hotkey("alt + shift + *", apagar_maquina) # no puede ir dentrro del
 
 def reiniciar_maquina():
     try:
-        reiniciar = str(input("quieres reiniciar el servidor ??: "))
-        if reiniciar == "y":
-            subprocess.run("sudo reboot -f", shell=True)
-            return True
-        else:
-            reiniciar == "n"
-            return False
+        subprocess.run("sudo reboot -f", shell=True)
     except KeyError as hotkey_reboot_errn:
         print(f"no se ha podido encontrar la tecla{hotkey_reboot_errn}")
         os.chdir("/home/ferranitoxx/Escritorio/Server-Minecraft/Información_del_server/Logs_de_reinicio")
