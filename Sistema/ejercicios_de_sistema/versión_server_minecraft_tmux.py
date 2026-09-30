@@ -62,7 +62,7 @@ def apagar_maquina(): # otra cosa está función no se llama normal como haria c
         with open("log_de_apagado", "r") as shutdowning_log:
             shutdowning_log.read()
 
-keyboard.add_hotkey("alt + shift + *", apagar_maquina) # no puede ir dentrro del try porque basicamente si se pusiera dentro se retroalimentaria como si fuera un bucle llamando una y otra vez para que pulses el hotkey 
+keyboard.add_hotkey("alt + shift + f12", apagar_maquina) # no puede ir dentrro del try porque basicamente si se pusiera dentro se retroalimentaria como si fuera un bucle llamando una y otra vez para que pulses el hotkey 
 
 def reiniciar_maquina():
     try:
