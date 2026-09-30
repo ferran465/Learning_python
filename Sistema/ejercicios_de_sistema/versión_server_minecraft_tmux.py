@@ -41,10 +41,10 @@ async def reiniciar_server(): # con async lo que hace es que la parte del progra
             pass
         if not error_inesperado == True:
             os.chdir("/home/ferranitoxx/Escritorio/Server-Minecraft/Información_del_server/Logs_de_reinicio_tmux")
-            with open("log", "a") as errn:
+            with open("log.txt", "a") as errn:
                 errn.write(f"{error_inesperado}")
 
-            with open("log", "r") as errn:
+            with open("log.txt", "r") as errn:
                 errn.read()
 
         else:
@@ -56,10 +56,10 @@ def apagar_maquina(): # otra cosa está función no se llama normal como haria c
     except KeyError as hotkey_start_errn:
         print(f"no se ha podido encontrar la tecla{hotkey_start_errn}")
         os.chdir("/home/ferranitoxx/Escritorio/Server-Minecraft/Información_del_server/Logs_de_apagado")
-        with open("log_de_apagado", "a") as shutdowning_log:
+        with open("log_de_apagado.txt", "a") as shutdowning_log:
             shutdowning_log.write(f"{hotkey_start_errn}")
 
-        with open("log_de_apagado", "r") as shutdowning_log:
+        with open("log_de_apagado.txt", "r") as shutdowning_log:
             shutdowning_log.read()
 
 keyboard.add_hotkey("alt + shift + f12", apagar_maquina) # no puede ir dentrro del try porque basicamente si se pusiera dentro se retroalimentaria como si fuera un bucle llamando una y otra vez para que pulses el hotkey 
@@ -70,13 +70,13 @@ def reiniciar_maquina():
     except KeyError as hotkey_reboot_errn:
         print(f"no se ha podido encontrar la tecla{hotkey_reboot_errn}")
         os.chdir("/home/ferranitoxx/Escritorio/Server-Minecraft/Información_del_server/Logs_de_reinicio")
-        with open("log_de_reinicio", "a") as reset_log:
+        with open("log_de_reinicio.txt", "a") as reset_log:
             reset_log.write(f"{hotkey_reboot_errn}")
 
-        with open("log_de_reinicio", "r") as reset_log:
+        with open("log_de_reinicio.txt", "r") as reset_log:
             reset_log.read()
 
-keyboard.add_hotkey("alt + shift + Ç", reiniciar_maquina)
+keyboard.add_hotkey("alt + shift + f9", reiniciar_maquina)
 
 asyncio.run(reiniciar_server()) # asyncio.run sirve para ejecutar la función asincronico definida
 sys.exit(iniciar_server()) # con sys.exit hace que el programa termine y que el código de salida que da iniciar_server() que antes solamente daba True ahora lo devuelva con un número
