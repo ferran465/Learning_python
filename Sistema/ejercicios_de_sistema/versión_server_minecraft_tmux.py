@@ -53,7 +53,8 @@ async def reiniciar_server(): # con async lo que hace es que la parte del progra
 def apagar_maquina(): # otra cosa está función no se llama normal como haria con reiniciar_server() o iniciar_server() abajo del código hay una función que activa la funcíón que activa está misma función en cuanto presionas las teclas "alt + shift + *" 
     try:
         subprocess.run("sudo shutdown now", shell=True)
-    except KeyError as hotkey_start_errn:
+        subprocess.wait()
+    except OSError as hotkey_start_errn:
         print(f"no se ha podido encontrar la tecla{hotkey_start_errn}")
         os.chdir("/home/ferranitoxx/Escritorio/Server-Minecraft/Información_del_server/Logs_de_apagado")
         with open("log_de_apagado.txt", "a") as shutdowning_log:
@@ -62,12 +63,13 @@ def apagar_maquina(): # otra cosa está función no se llama normal como haria c
         with open("log_de_apagado.txt", "r") as shutdowning_log:
             shutdowning_log.read()
 
-keyboard.add_hotkey("alt + shift + f12", apagar_maquina) # no puede ir dentrro del try porque basicamente si se pusiera dentro se retroalimentaria como si fuera un bucle llamando una y otra vez para que pulses el hotkey 
+keyboard.add_hotkey("alt + shift + f12", apagar_maquina) # con f12
+# no puede ir dentrro del try porque basicamente si se pusiera dentro se retroalimentaria como si fuera un bucle llamando una y otra vez para que pulses el hotkey 
 
 def reiniciar_maquina():
     try:
         subprocess.run("sudo reboot -f", shell=True)
-    except KeyError as hotkey_reboot_errn:
+    except OSError as hotkey_reboot_errn:
         print(f"no se ha podido encontrar la tecla{hotkey_reboot_errn}")
         os.chdir("/home/ferranitoxx/Escritorio/Server-Minecraft/Información_del_server/Logs_de_reinicio")
         with open("log_de_reinicio.txt", "a") as reset_log:
@@ -76,7 +78,22 @@ def reiniciar_maquina():
         with open("log_de_reinicio.txt", "r") as reset_log:
             reset_log.read()
 
-keyboard.add_hotkey("alt + shift + f9", reiniciar_maquina)
+keyboard.add_hotkey("alt + shift + f9", reiniciar_maquina) # con f9
+
+def suspender_maquina():
+    try:
+        subprocess.run("pm-suspend", shell=True)
+        subprocess.wait()
+    except OSError as hotkey_suspend_errn:
+        print(f"no se ha podido suspender la máquina{hotkey_suspend_errn}")
+        os.chdir("/home/ferranitoxx/Escritorio/Server-Minecraft/Información_del_server/Logs_de_suspendido")
+        with open("log_de_suspendido.txt", "a") as suspend_log:
+            suspend_log.write(f"{hotkey_suspend_errn}")
+            
+        with open("log_de_suspendido.txt", "r") as suspend_log:
+            suspend_log.read()
+            
+keyboard.add_hotkey("alt + shift + f8", suspender_maquina) # con f8
 
 asyncio.run(reiniciar_server()) # asyncio.run sirve para ejecutar la función asincronico definida
 sys.exit(iniciar_server()) # con sys.exit hace que el programa termine y que el código de salida que da iniciar_server() que antes solamente daba True ahora lo devuelva con un número
