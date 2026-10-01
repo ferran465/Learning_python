@@ -53,7 +53,6 @@ async def reiniciar_server(): # con async lo que hace es que la parte del progra
 def apagar_maquina(): # otra cosa está función no se llama normal como haria con reiniciar_server() o iniciar_server() abajo del código hay una función que activa la funcíón que activa está misma función en cuanto presionas las teclas "alt + shift + *" 
     try:
         subprocess.run("sudo shutdown now", shell=True)
-        subprocess.wait()
     except OSError as hotkey_start_errn:
         print(f"no se ha podido encontrar la tecla{hotkey_start_errn}")
         os.chdir("/home/ferranitoxx/Escritorio/Server-Minecraft/Información_del_server/Logs_de_apagado")
