@@ -82,7 +82,6 @@ keyboard.add_hotkey("alt + shift + f9", reiniciar_maquina) # con f9
 def suspender_maquina():
     try:
         subprocess.run("pm-suspend", shell=True)
-        subprocess.wait()
     except OSError as hotkey_suspend_errn:
         print(f"no se ha podido suspender la máquina{hotkey_suspend_errn}")
         os.chdir("/home/ferranitoxx/Escritorio/Server-Minecraft/Información_del_server/Logs_de_suspendido")
