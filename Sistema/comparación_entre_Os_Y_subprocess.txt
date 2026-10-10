@@ -1,8 +1,0 @@
-Diferencias entre os y subprocces:
-
-Con mis palabras:
-
-subprocces lo que hace es buscar el ejecutable entero para ejecutarlo y Os lo que hace es llamar al Kernel y el Kernel lo que hace es que con las funciones que tiene en syscall (system, llamar) y devuelve el resultado que el mismo ha ejecutado.
-
-Os ejecuta el comando pero el texto que dá de salida solo indica si funciona o falló "lo devuelve como un número" y aparte descarta la salida stdout del comando en cambio suprocces esa salida de texto "stdout" la podemos utilizar como dato utilizable en nuestro código.
-

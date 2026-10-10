@@ -1,1 +1,0 @@
-# Osea que socket.SOCK_STREAM se comunica a traves del protocolo tcp y SOCK_DGRAM se comunica a traves del protocolo udp, socket.AF_INET lo que hace es elegir que tipo de dirección va a usar

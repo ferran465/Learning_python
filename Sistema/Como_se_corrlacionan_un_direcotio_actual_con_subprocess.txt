@@ -1,5 +1,0 @@
-Como se corrlacionan un direcotio actual como os.chdir() hacia subprocess.run() ??
-
-task_struct contiene toda la información del proceso "permisos, un puntero al directorio actual y entre muchas otras cosas..."
-
-cuando llamas a os.chdir(), el kernel localiza task_struct que lo que hace es actualizar el puntero del que hablabamos para apuntarlo al nuevo directorio y eso se puede conseguir con las instrucciones que le dás a python.
