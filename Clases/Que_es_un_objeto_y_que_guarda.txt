@@ -1,0 +1,1 @@
+Un Objeto es una instancia que creamos que principalmente guarda todo lo que són los atributos/variables es decir todos los cajones que contienen datos útiles para el programa en si que después usamos para llamar a los métodos/funciones
